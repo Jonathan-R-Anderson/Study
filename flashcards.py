@@ -79,7 +79,7 @@ class FlashcardApp:
 
         self.configure_styles()
         self.build_ui()
-        self.load_library()
+        self.load_library(refresh_if_empty=False)
         self.restore_state()
         self.update_interface()
         self.bind_shortcuts()
@@ -687,7 +687,13 @@ class FlashcardApp:
             if not path.name.startswith(".") and not path.name.endswith(".state.json")
         )
 
-    def load_library(self):
+    def write_text_atomic(self, path, text):
+        path = Path(path)
+        temp_path = path.with_name(f"{path.name}.tmp")
+        temp_path.write_text(text, encoding="utf-8")
+        temp_path.replace(path)
+
+    def load_library(self, refresh_if_empty=True):
         previous_subject = self.subject_var.get()
         previous_difficulty = self.difficulty_var.get()
         previous_session_size = self.session_size_var.get()
@@ -725,7 +731,7 @@ class FlashcardApp:
         if errors:
             messagebox.showwarning("Deck Load Warning", "\n".join(errors))
 
-        if not self.session_queue:
+        if refresh_if_empty and not self.session_queue:
             self.refresh_session()
 
     def normalize_card(self, source_path, question, payload):
@@ -884,9 +890,9 @@ class FlashcardApp:
                 card["question"]: self.serialize_card(card)
                 for card in ordered_cards
             }
-            Path(source_path).write_text(
+            self.write_text_atomic(
+                source_path,
                 json.dumps(data, indent=2, ensure_ascii=False) + "\n",
-                encoding="utf-8",
             )
 
     def save_sort_key(self, card):
@@ -1052,9 +1058,9 @@ class FlashcardApp:
             "index": self.index,
             "show_answer": self.show_answer,
         }
-        self.state_path.write_text(
+        self.write_text_atomic(
+            self.state_path,
             json.dumps(state, indent=2, ensure_ascii=False) + "\n",
-            encoding="utf-8",
         )
 
     def current_card(self):
@@ -1315,8 +1321,11 @@ class FlashcardApp:
         self.update_interface()
 
     def handle_close(self):
-        self.stop_speech()
-        self.root.destroy()
+        try:
+            self.save_state()
+        finally:
+            self.stop_speech()
+            self.root.destroy()
 
     def reset_progress(self):
         if not self.cards:
