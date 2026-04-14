@@ -1010,6 +1010,26 @@ class FlashcardApp:
     def batch_sort_key(self, card):
         return self.save_sort_key(card)
 
+    def interleave_batch_order(self, cards):
+        buckets = defaultdict(list)
+        for card in cards:
+            buckets[card["subject"]].append(card)
+
+        for subject_cards in buckets.values():
+            subject_cards.sort(key=self.batch_sort_key)
+
+        ordered = []
+        subject_order = sorted(buckets)
+        while True:
+            advanced = False
+            for subject in subject_order:
+                if buckets[subject]:
+                    ordered.append(buckets[subject].pop(0))
+                    advanced = True
+            if not advanced:
+                break
+        return ordered
+
     def session_sort_key(self, card):
         due_at = self.parse_timestamp(card["due_at"]) or datetime.min
         due_bucket = 0 if self.is_due(card) else 1
@@ -1093,7 +1113,11 @@ class FlashcardApp:
         return future_due[0] if future_due else None
 
     def build_batch_groups(self, cards=None):
-        ordered_cards = sorted(cards if cards is not None else self.filtered_cards(), key=self.batch_sort_key)
+        source_cards = cards if cards is not None else self.filtered_cards()
+        if self.subject_var.get() == ALL_SUBJECTS:
+            ordered_cards = self.interleave_batch_order(source_cards)
+        else:
+            ordered_cards = sorted(source_cards, key=self.batch_sort_key)
         card_ids = [card["id"] for card in ordered_cards]
         return [card_ids[index:index + BATCH_SIZE] for index in range(0, len(card_ids), BATCH_SIZE)]
 
