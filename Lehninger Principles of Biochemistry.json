@@ -161,49 +161,6 @@
       "last_result": "right"
     }
   },
-  "What are microtubules?": {
-    "answer": "Hollow tubes made of tubulin that provide structural support and tracks for transport.",
-    "subject": "Biochemistry",
-    "deck_name": "Lehninger Principles of Biochemistry",
-    "difficulty": "Easy",
-    "difficulty_score": 23.99,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.16,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.494,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.16,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
-    },
-    "acquisition": {
-      "phase": "acquisition",
-      "passes_completed": 0,
-      "target_passes": 5,
-      "correct_passes": 0,
-      "wrong_passes": 0,
-      "last_result": "new"
-    }
-  },
   "What are restriction enzymes?": {
     "answer": "Enzymes that cut DNA at specific sequences.",
     "subject": "Biochemistry",
@@ -634,49 +591,6 @@
       "correct_passes": 5,
       "wrong_passes": 0,
       "last_result": "right"
-    }
-  },
-  "What happens during the ionization of water?": {
-    "answer": "Water molecules dissociate into H+ and OH− ions.",
-    "subject": "Biochemistry",
-    "deck_name": "Lehninger Principles of Biochemistry",
-    "difficulty": "Easy",
-    "difficulty_score": 24.06,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.159,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.495,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.159,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
-    },
-    "acquisition": {
-      "phase": "acquisition",
-      "passes_completed": 0,
-      "target_passes": 5,
-      "correct_passes": 0,
-      "wrong_passes": 0,
-      "last_result": "new"
     }
   },
   "What hormone inhibits lipolysis?": {
@@ -1235,7 +1149,7 @@
     "retention_rate": 0.0,
     "lapse_rate": 0.0,
     "due_at": null,
-    "last_reviewed": null,
+    "last_reviewed": "2026-04-14T14:11:29",
     "manual_review": false,
     "save_for_later": false,
     "known_pile": false,
@@ -1255,11 +1169,11 @@
     },
     "acquisition": {
       "phase": "acquisition",
-      "passes_completed": 0,
+      "passes_completed": 1,
       "target_passes": 5,
       "correct_passes": 0,
-      "wrong_passes": 0,
-      "last_result": "new"
+      "wrong_passes": 1,
+      "last_result": "wrong"
     }
   },
   "What is a prosthetic group?": {
@@ -1278,7 +1192,7 @@
     "retention_rate": 0.0,
     "lapse_rate": 0.0,
     "due_at": null,
-    "last_reviewed": null,
+    "last_reviewed": "2026-04-14T14:11:57",
     "manual_review": false,
     "save_for_later": false,
     "known_pile": false,
@@ -1298,11 +1212,11 @@
     },
     "acquisition": {
       "phase": "acquisition",
-      "passes_completed": 0,
+      "passes_completed": 1,
       "target_passes": 5,
       "correct_passes": 0,
-      "wrong_passes": 0,
-      "last_result": "new"
+      "wrong_passes": 1,
+      "last_result": "wrong"
     }
   },
   "What is a protein motif?": {
@@ -10647,6 +10561,60 @@
       "last_result": "new"
     }
   },
+  "What are microtubules?": {
+    "answer": "Hollow tubes made of tubulin that provide structural support and tracks for transport.",
+    "subject": "Biochemistry",
+    "deck_name": "Lehninger Principles of Biochemistry",
+    "difficulty": "Medium",
+    "difficulty_score": 31.64,
+    "correct_count": 0,
+    "missed_count": 1,
+    "review_count": 1,
+    "ease_factor": 1.99,
+    "interval_days": 0.0069,
+    "repetitions": 0,
+    "lapse_count": 1,
+    "retention_rate": 0.0,
+    "lapse_rate": 1.0,
+    "due_at": "2026-04-14T14:23:08",
+    "last_reviewed": "2026-04-14T14:13:08",
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.126,
+      "difficulty": 0.594,
+      "retrievability": 0.0,
+      "quality": 0.15,
+      "repetition": 0,
+      "a_factor": 1.99,
+      "flags": 4,
+      "last_interval_days": 0.0069,
+      "next_interval_days": 0.0069,
+      "last_result": "wrong",
+      "history": [
+        {
+          "reviewed_at": "2026-04-14T14:13:08",
+          "result": "wrong",
+          "quality": 0.15,
+          "retrievability": 1.0,
+          "scheduled_days": 1.0,
+          "interval_days": 0.0069,
+          "stability": 1.126,
+          "difficulty": 0.594
+        }
+      ]
+    },
+    "acquisition": {
+      "phase": "sm20",
+      "passes_completed": 5,
+      "target_passes": 5,
+      "correct_passes": 2,
+      "wrong_passes": 3,
+      "last_result": "wrong"
+    }
+  },
   "What are nonpolar amino acids?": {
     "answer": "Amino acids with hydrophobic side chains that tend to cluster inside proteins.",
     "subject": "Biochemistry",
@@ -13211,6 +13179,60 @@
       "last_result": "new"
     }
   },
+  "What happens during the ionization of water?": {
+    "answer": "Water molecules dissociate into H+ and OH− ions.",
+    "subject": "Biochemistry",
+    "deck_name": "Lehninger Principles of Biochemistry",
+    "difficulty": "Medium",
+    "difficulty_score": 31.71,
+    "correct_count": 0,
+    "missed_count": 1,
+    "review_count": 1,
+    "ease_factor": 1.989,
+    "interval_days": 0.0069,
+    "repetitions": 0,
+    "lapse_count": 1,
+    "retention_rate": 0.0,
+    "lapse_rate": 1.0,
+    "due_at": "2026-04-14T14:23:42",
+    "last_reviewed": "2026-04-14T14:13:42",
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.126,
+      "difficulty": 0.595,
+      "retrievability": 0.0,
+      "quality": 0.15,
+      "repetition": 0,
+      "a_factor": 1.989,
+      "flags": 4,
+      "last_interval_days": 0.0069,
+      "next_interval_days": 0.0069,
+      "last_result": "wrong",
+      "history": [
+        {
+          "reviewed_at": "2026-04-14T14:13:42",
+          "result": "wrong",
+          "quality": 0.15,
+          "retrievability": 1.0,
+          "scheduled_days": 1.0,
+          "interval_days": 0.0069,
+          "stability": 1.126,
+          "difficulty": 0.595
+        }
+      ]
+    },
+    "acquisition": {
+      "phase": "sm20",
+      "passes_completed": 5,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 5,
+      "last_result": "wrong"
+    }
+  },
   "What happens during the isomerization of citrate?": {
     "answer": "Citrate is converted to isocitrate by aconitase.",
     "subject": "Biochemistry",
@@ -14679,7 +14701,7 @@
       "version": 2,
       "stability": 1.148,
       "difficulty": 0.491,
-      "retrievability": 0.0,
+      "retrievability": 0.359,
       "quality": 0.15,
       "repetition": 0,
       "a_factor": 2.165,

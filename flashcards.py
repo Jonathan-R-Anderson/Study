@@ -1103,15 +1103,35 @@ class FlashcardApp:
     def active_batch_cards(self):
         return self.cards_from_ids(self.active_batch_ids)
 
-    def batch_chunks(self, cards):
-        chunk_size = self.parse_session_size()
-        return [cards[index:index + chunk_size] for index in range(0, len(cards), chunk_size)]
+    def build_acquisition_window(self, batch_cards):
+        acquisition_ids = [
+            card["id"]
+            for card in batch_cards
+            if not self.acquisition_complete(card)
+        ]
+        if not acquisition_ids:
+            return []
 
-    def current_acquisition_chunk(self, batch_cards):
-        for chunk in self.batch_chunks(batch_cards):
-            if any(not self.acquisition_complete(card) for card in chunk):
-                return chunk
-        return []
+        session_size = self.parse_session_size()
+        acquisition_set = set(acquisition_ids)
+        window = []
+        seen = set()
+
+        for card_id in self.session_queue:
+            if card_id in acquisition_set and card_id not in seen:
+                window.append(card_id)
+                seen.add(card_id)
+            if len(window) >= session_size:
+                return window
+
+        for card_id in acquisition_ids:
+            if card_id not in seen:
+                window.append(card_id)
+                seen.add(card_id)
+            if len(window) >= session_size:
+                break
+
+        return window
 
     def resolve_active_batch(self, allow_advance=True, preferred_card_id=None):
         batches = self.build_batch_groups()
@@ -1154,13 +1174,9 @@ class FlashcardApp:
 
     def build_session_queue(self):
         batch_cards = self.resolve_active_batch()
-        acquisition_chunk = self.current_acquisition_chunk(batch_cards)
-        if acquisition_chunk:
-            return [
-                card["id"]
-                for card in acquisition_chunk
-                if not self.acquisition_complete(card)
-            ]
+        acquisition_window = self.build_acquisition_window(batch_cards)
+        if acquisition_window:
+            return acquisition_window
 
         due_cards = [card for card in batch_cards if self.is_due(card)]
         due_cards.sort(key=self.session_sort_key)
@@ -1188,11 +1204,13 @@ class FlashcardApp:
         else:
             matching_cards = self.filtered_cards()
             active_batch_cards = self.resolve_active_batch(allow_advance=False)
-            acquisition_chunk = self.current_acquisition_chunk(active_batch_cards)
+            acquisition_window = self.build_acquisition_window(active_batch_cards)
             next_due = self.next_due_in_filter(active_batch_cards or matching_cards)
-            if acquisition_chunk:
+            if acquisition_window:
                 self.status_var.set(
-                    f"{self.acquisition_pass_label(acquisition_chunk[0])} is complete for now. Refresh to continue."
+                    f"Loaded the current learning window of {len(acquisition_window)} card"
+                    f"{'s' if len(acquisition_window) != 1 else ''} in batch "
+                    f"{self.active_batch_index}/{self.active_batch_total}."
                 )
             elif active_batch_cards and next_due:
                 self.status_var.set(
@@ -1565,6 +1583,7 @@ class FlashcardApp:
             messagebox.showinfo("Reveal The Answer", "Flip the card before grading it.")
             return
 
+        was_in_acquisition = not self.acquisition_complete(card)
         outcome = self.calculate_review_outcome(card, rating)
         for key, value in outcome.items():
             if key not in {"interval_label", "result"}:
@@ -1574,6 +1593,11 @@ class FlashcardApp:
         card["difficulty"] = self.label_for_difficulty(card["difficulty_score"])
 
         self.session_queue.pop(self.index)
+        if was_in_acquisition and not self.acquisition_complete(card):
+            self.session_queue.append(card["id"])
+
+        if was_in_acquisition:
+            self.session_queue = self.build_session_queue()
 
         if self.index >= len(self.session_queue) and self.session_queue:
             self.index = len(self.session_queue) - 1
