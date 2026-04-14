@@ -1,5 +1,6 @@
 import hashlib
 import json
+import math
 import re
 import shutil
 import subprocess
@@ -11,11 +12,19 @@ import tkinter as tk
 import tkinter.font as tkfont
 from tkinter import messagebox, ttk
 
+from sm20 import (
+    RELEARN_DELAY_MINUTES,
+    backfill_sm20_state,
+    format_interval_label,
+    normalize_sm20_state,
+    preview_sm20_review,
+    score_sm20_review,
+    serialize_sm20_state,
+)
+
 
 STATE_FILENAME = ".flashcards.study_state.json"
 DEFAULT_SESSION_SIZE = 20
-RELEARN_DELAY_MINUTES = 10
-RELEARN_GAP = 2
 DIFFICULTIES = ("Easy", "Medium", "Hard")
 DIFFICULTY_ORDER = {name: index for index, name in enumerate(DIFFICULTIES)}
 ALL_SUBJECTS = "All subjects"
@@ -300,7 +309,7 @@ class FlashcardApp:
 
         self.shortcut_label = tk.Label(
             self.sidebar,
-            text="Shortcuts\nSpace: flip card\nS: speak current face\nLeft: previous\nRight: skip\n1-4: Again / Hard / Good / Easy",
+            text="Shortcuts\nSpace: flip card\nS: speak current face\nLeft: previous\nRight: skip\n1: Wrong\n2: Right",
             justify="left",
             anchor="nw",
             bg=self.palette["panel"],
@@ -427,43 +436,23 @@ class FlashcardApp:
         ratings_row.pack(fill="x")
 
         self.rate_buttons = {
-            "again": self.make_button(
+            "wrong": self.make_button(
                 ratings_row,
-                "Again\n10m",
-                lambda: self.rate_card("again"),
+                f"Wrong\n{RELEARN_DELAY_MINUTES}m",
+                lambda: self.rate_card("wrong"),
                 color=self.palette["again"],
                 side="left",
                 padx=(0, 10),
-                width=12,
+                width=18,
                 height=2,
             ),
-            "hard": self.make_button(
+            "right": self.make_button(
                 ratings_row,
-                "Hard",
-                lambda: self.rate_card("hard"),
-                color=self.palette["hard"],
-                side="left",
-                padx=(0, 10),
-                width=12,
-                height=2,
-            ),
-            "good": self.make_button(
-                ratings_row,
-                "Good",
-                lambda: self.rate_card("good"),
+                "Right",
+                lambda: self.rate_card("right"),
                 color=self.palette["good"],
                 side="left",
-                padx=(0, 10),
-                width=12,
-                height=2,
-            ),
-            "easy": self.make_button(
-                ratings_row,
-                "Easy",
-                lambda: self.rate_card("easy"),
-                color=self.palette["easy"],
-                side="left",
-                width=12,
+                width=18,
                 height=2,
             ),
         }
@@ -539,10 +528,8 @@ class FlashcardApp:
         self.root.bind("S", lambda _event: self.speak_current_face())
         self.root.bind("<Left>", lambda _event: self.previous_card())
         self.root.bind("<Right>", lambda _event: self.skip_card())
-        self.root.bind("1", lambda _event: self.rate_card("again"))
-        self.root.bind("2", lambda _event: self.rate_card("hard"))
-        self.root.bind("3", lambda _event: self.rate_card("good"))
-        self.root.bind("4", lambda _event: self.rate_card("easy"))
+        self.root.bind("1", lambda _event: self.rate_card("wrong"))
+        self.root.bind("2", lambda _event: self.rate_card("right"))
 
     def detect_speech_backend(self):
         command_map = (
@@ -647,6 +634,13 @@ class FlashcardApp:
     def now(self):
         return datetime.now()
 
+    def elapsed_days_for_card(self, card, now=None):
+        last_reviewed = self.parse_timestamp(card.get("last_reviewed"))
+        if last_reviewed is None:
+            return 0.0
+        now = now or self.now()
+        return max(0.0, (now - last_reviewed).total_seconds() / 86400.0)
+
     def prettify_deck_name(self, stem):
         name = stem.replace("_", " ").strip()
         replacements = {
@@ -742,6 +736,46 @@ class FlashcardApp:
             correct_count + missed_count,
             self.parse_int(data.get("review_count", correct_count + missed_count)),
         )
+        interval_days = max(
+            0.0,
+            self.parse_float(
+                data.get(
+                    "interval_days",
+                    data.get("sm20", {}).get("next_interval_days", 0.0)
+                    if isinstance(data.get("sm20"), dict)
+                    else 0.0,
+                ),
+                0.0,
+            ),
+        )
+        sm20_state = normalize_sm20_state(
+            data.get("sm20"),
+            difficulty_score=self.parse_float(data.get("difficulty_score", 0.0), 0.0),
+            difficulty_label=str(data.get("difficulty") or "Easy"),
+            review_count=review_count,
+            missed_count=missed_count,
+            repetitions=max(0, self.parse_int(data.get("repetitions", 0))),
+            interval_days=interval_days,
+            correct_count=correct_count,
+        )
+        last_reviewed = data.get("last_reviewed")
+        due_at = data.get("due_at")
+        if not due_at and last_reviewed and review_count > 0:
+            last_reviewed_dt = self.parse_timestamp(last_reviewed)
+            if last_reviewed_dt is not None:
+                due_at = (
+                    last_reviewed_dt + timedelta(days=max(interval_days, sm20_state["next_interval_days"]))
+                ).isoformat(timespec="seconds")
+        sm20_state = backfill_sm20_state(
+            sm20_state,
+            correct_count=correct_count,
+            missed_count=missed_count,
+            review_count=review_count,
+            interval_days=interval_days,
+            last_reviewed=last_reviewed,
+            due_at=due_at,
+            now=self.now(),
+        )
 
         card = {
             "id": self.make_card_id(source_path, question),
@@ -755,16 +789,17 @@ class FlashcardApp:
             "correct_count": correct_count,
             "missed_count": missed_count,
             "review_count": review_count,
-            "ease_factor": max(1.3, round(self.parse_float(data.get("ease_factor", 2.5), 2.5), 2)),
-            "interval_days": max(0, self.parse_int(data.get("interval_days", 0))),
-            "repetitions": max(0, self.parse_int(data.get("repetitions", 0))),
+            "ease_factor": round(sm20_state["a_factor"], 3),
+            "interval_days": max(interval_days, sm20_state["next_interval_days"] if review_count else interval_days),
+            "repetitions": max(0, self.parse_int(data.get("repetitions", sm20_state["repetition"]))),
             "lapse_count": max(
                 missed_count,
                 self.parse_int(data.get("lapse_count", missed_count)),
             ),
-            "due_at": data.get("due_at"),
-            "last_reviewed": data.get("last_reviewed"),
+            "due_at": due_at,
+            "last_reviewed": last_reviewed,
             "manual_review": bool(data.get("manual_review", data.get("save_for_later", False))),
+            "sm20": sm20_state,
         }
         return card
 
@@ -805,13 +840,17 @@ class FlashcardApp:
         return max(0.0, score)
 
     def calculate_difficulty_score(self, card):
+        sm20_state = card["sm20"]
         score = self.calculate_base_difficulty_score(card)
         score += card["missed_count"] * 2.5
         score += card["lapse_count"] * 2.0
-        score += max(0.0, 2.5 - card["ease_factor"]) * 6
+        score += sm20_state["difficulty"] * 18
+        score += max(0.0, 6.5 - math.log2(max(1.0, sm20_state["stability"]))) * 0.9
         score -= min(card["correct_count"], 8) * 0.35
         if card["manual_review"]:
             score += 2
+        if sm20_state["last_result"] == "wrong":
+            score += 1.5
         return round(max(0.0, score), 2)
 
     def percentile(self, values, ratio):
@@ -864,9 +903,9 @@ class FlashcardApp:
             "correct_count": card["correct_count"],
             "missed_count": card["missed_count"],
             "review_count": card["review_count"],
-            "ease_factor": round(card["ease_factor"], 2),
-            "interval_days": card["interval_days"],
-            "repetitions": card["repetitions"],
+            "ease_factor": round(card["sm20"]["a_factor"], 3),
+            "interval_days": round(card["interval_days"], 4),
+            "repetitions": card["sm20"]["repetition"],
             "lapse_count": card["lapse_count"],
             "retention_rate": round(self.retention_rate(card) or 0.0, 3),
             "lapse_rate": round(self.lapse_rate(card) or 0.0, 3),
@@ -875,6 +914,7 @@ class FlashcardApp:
             "manual_review": card["manual_review"],
             "save_for_later": card["manual_review"],
             "known_pile": False,
+            "sm20": serialize_sm20_state(card["sm20"]),
         }
 
     def save_all_decks(self, target_paths=None):
@@ -1098,7 +1138,7 @@ class FlashcardApp:
                 f"Easy: {difficulty_summary['Easy']}\n"
                 f"Medium: {difficulty_summary['Medium']}\n"
                 f"Hard: {difficulty_summary['Hard']}\n\n"
-                f"The library is saved back into the JSON files grouped by subject and ordered by difficulty."
+                f"Each card keeps its SM20 scheduling state inside the deck JSON files."
             )
         )
 
@@ -1136,17 +1176,20 @@ class FlashcardApp:
         self.face_label.config(text=face)
         self.subject_chip.config(text=card["subject"])
         self.deck_chip.config(text=card["deck_name"])
-        self.difficulty_chip.config(text=f"{card['difficulty']} • EF {card['ease_factor']:.2f}")
+        self.difficulty_chip.config(
+            text=f"{card['difficulty']} • S {card['sm20']['stability']:.1f} • D {card['sm20']['difficulty']:.2f}"
+        )
         self.schedule_chip.config(text=due_label)
         self.card_text.config(text=card["answer"] if self.show_answer else card["question"])
 
         retention = self.format_percent(self.retention_rate(card))
         lapse = self.format_percent(self.lapse_rate(card))
+        retrievability = self.format_percent(card["sm20"]["retrievability"])
         self.card_metrics_label.config(
             text=(
                 f"Reviews: {card['review_count']}  |  Retention: {retention}  |  "
-                f"Lapse rate: {lapse}  |  Repetitions: {card['repetitions']}  |  "
-                f"Interval: {card['interval_days']}d"
+                f"Lapse rate: {lapse}  |  SM20 rep: {card['sm20']['repetition']}  |  "
+                f"R: {retrievability}  |  Next: {format_interval_label(card['interval_days'])}"
             )
         )
 
@@ -1169,10 +1212,8 @@ class FlashcardApp:
         previews = self.preview_intervals(card) if enabled else None
 
         labels = {
-            "again": "Again",
-            "hard": "Hard",
-            "good": "Good",
-            "easy": "Easy",
+            "wrong": "Wrong",
+            "right": "Right",
         }
 
         for rating, button in self.rate_buttons.items():
@@ -1205,83 +1246,48 @@ class FlashcardApp:
         self.status_var.set("Moved the current card to the end of the queue.")
         self.update_interface()
 
-    def update_ease_factor(self, ease_factor, quality):
-        updated = ease_factor + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02))
-        return max(1.3, round(updated, 2))
-
-    def success_interval(self, card):
-        repetitions = card["repetitions"]
-        interval_days = max(1, card["interval_days"])
-        if repetitions <= 0:
-            return 1
-        if repetitions == 1:
-            return 6
-        return max(1, int(round(interval_days * card["ease_factor"])))
-
-    def interval_label(self, days=0, minutes=0):
-        if minutes:
-            if minutes < 60:
-                return f"{minutes}m"
-            hours = max(1, round(minutes / 60))
-            return f"{hours}h"
-        if days <= 0:
-            return "now"
-        if days == 1:
-            return "1d"
-        return f"{days}d"
-
     def preview_intervals(self, card):
-        previews = {}
-        for rating in ("again", "hard", "good", "easy"):
-            outcome = self.calculate_review_outcome(card, rating)
-            previews[rating] = outcome["interval_label"]
-        return previews
+        now = self.now()
+        elapsed_days = self.elapsed_days_for_card(card, now)
+        return {
+            "wrong": preview_sm20_review(
+                card["sm20"],
+                False,
+                now=now,
+                elapsed_days=elapsed_days,
+            )["interval_label"],
+            "right": preview_sm20_review(
+                card["sm20"],
+                True,
+                now=now,
+                elapsed_days=elapsed_days,
+            )["interval_label"],
+        }
 
     def calculate_review_outcome(self, card, rating):
         now = self.now()
-        quality_map = {"again": 1, "hard": 3, "good": 4, "easy": 5}
-        quality = quality_map[rating]
-
-        outcome = {
-            "review_count": card["review_count"] + 1,
-            "last_reviewed": now.isoformat(timespec="seconds"),
-            "manual_review": False,
-        }
-
-        if rating == "again":
-            outcome.update(
-                {
-                    "correct_count": card["correct_count"],
-                    "missed_count": card["missed_count"] + 1,
-                    "lapse_count": card["lapse_count"] + 1,
-                    "repetitions": 0,
-                    "interval_days": 0,
-                    "ease_factor": self.update_ease_factor(card["ease_factor"], quality),
-                    "due_at": (now + timedelta(minutes=RELEARN_DELAY_MINUTES)).isoformat(timespec="seconds"),
-                    "interval_label": self.interval_label(minutes=RELEARN_DELAY_MINUTES),
-                }
-            )
-            return outcome
-
-        next_interval = self.success_interval(card)
-        if rating == "hard":
-            next_interval = max(1, int(round(next_interval * 0.8)))
-        elif rating == "easy":
-            next_interval = max(2, int(round(next_interval * 1.3)))
-
-        outcome.update(
-            {
-                "correct_count": card["correct_count"] + 1,
-                "missed_count": card["missed_count"],
-                "lapse_count": card["lapse_count"],
-                "repetitions": card["repetitions"] + 1,
-                "interval_days": next_interval,
-                "ease_factor": self.update_ease_factor(card["ease_factor"], quality),
-                "due_at": (now + timedelta(days=next_interval)).isoformat(timespec="seconds"),
-                "interval_label": self.interval_label(days=next_interval),
-            }
+        was_correct = rating == "right"
+        sm20_outcome = score_sm20_review(
+            card["sm20"],
+            was_correct,
+            now=now,
+            elapsed_days=self.elapsed_days_for_card(card, now),
         )
-        return outcome
+        return {
+            "review_count": card["review_count"] + 1,
+            "correct_count": card["correct_count"] + (1 if was_correct else 0),
+            "missed_count": card["missed_count"] + (0 if was_correct else 1),
+            "lapse_count": card["lapse_count"] + (0 if was_correct else 1),
+            "repetitions": sm20_outcome["state"]["repetition"],
+            "interval_days": sm20_outcome["interval_days"],
+            "ease_factor": sm20_outcome["state"]["a_factor"],
+            "due_at": sm20_outcome["due_at"],
+            "last_reviewed": sm20_outcome["last_reviewed"],
+            "manual_review": False,
+            "sm20": sm20_outcome["state"],
+            "interval_label": sm20_outcome["interval_label"],
+            "result": sm20_outcome["result"],
+        }
 
     def rate_card(self, rating):
         card = self.current_card()
@@ -1293,16 +1299,13 @@ class FlashcardApp:
 
         outcome = self.calculate_review_outcome(card, rating)
         for key, value in outcome.items():
-            if key != "interval_label":
+            if key not in {"interval_label", "result"}:
                 card[key] = value
 
         card["difficulty_score"] = self.calculate_difficulty_score(card)
         card["difficulty"] = self.label_for_difficulty(card["difficulty_score"])
 
-        current_id = self.session_queue.pop(self.index)
-        if rating == "again":
-            insert_at = min(self.index + RELEARN_GAP, len(self.session_queue))
-            self.session_queue.insert(insert_at, current_id)
+        self.session_queue.pop(self.index)
 
         if self.index >= len(self.session_queue) and self.session_queue:
             self.index = len(self.session_queue) - 1
@@ -1316,7 +1319,7 @@ class FlashcardApp:
             self.session_queue = self.build_session_queue()
 
         self.status_var.set(
-            f"{rating.title()} recorded. Next interval: {outcome['interval_label']}."
+            f"{outcome['result'].title()} recorded with SM20. Next interval: {outcome['interval_label']}."
         )
         self.update_interface()
 
@@ -1334,7 +1337,7 @@ class FlashcardApp:
 
         confirmed = messagebox.askyesno(
             "Reset Progress",
-            "Reset counts, spaced-repetition scheduling, and manual review flags for every card in every JSON deck?",
+            "Reset counts, SM20 scheduling state, and manual review flags for every card in every JSON deck?",
         )
         if not confirmed:
             return
@@ -1343,8 +1346,18 @@ class FlashcardApp:
             card["correct_count"] = 0
             card["missed_count"] = 0
             card["review_count"] = 0
-            card["ease_factor"] = 2.5
-            card["interval_days"] = 0
+            card["sm20"] = normalize_sm20_state(
+                None,
+                difficulty_score=card["difficulty_score"],
+                difficulty_label=card["difficulty"],
+                review_count=0,
+                missed_count=0,
+                repetitions=0,
+                interval_days=0.0,
+                correct_count=0,
+            )
+            card["ease_factor"] = card["sm20"]["a_factor"]
+            card["interval_days"] = 0.0
             card["repetitions"] = 0
             card["lapse_count"] = 0
             card["due_at"] = None
