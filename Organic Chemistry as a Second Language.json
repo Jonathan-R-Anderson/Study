@@ -32,6 +32,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Can ketones be easily oxidized?": {
@@ -67,6 +75,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Does a ring flip change connectivity?": {
@@ -102,6 +118,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What allows conjugation to occur?": {
@@ -137,6 +161,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are activating groups?": {
@@ -172,6 +204,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are alkanes?": {
@@ -207,6 +247,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are alkenes?": {
@@ -242,6 +290,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are alkynes?": {
@@ -277,6 +333,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are alpha hydrogens?": {
@@ -312,6 +376,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are cycloalkanes?": {
@@ -347,6 +419,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are deactivating groups?": {
@@ -382,6 +462,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are diastereomers?": {
@@ -417,6 +505,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are diazonium salts used for?": {
@@ -452,6 +548,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are E2 characteristics?": {
@@ -487,6 +591,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are enantiomers?": {
@@ -522,6 +634,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are equatorial positions in cyclohexane?": {
@@ -557,6 +677,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are IR units?": {
@@ -592,6 +720,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are meta directors?": {
@@ -627,6 +763,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are ortho/para directors?": {
@@ -662,6 +806,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are stereoisomers?": {
@@ -697,6 +849,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What bonds make up a double bond?": {
@@ -732,6 +892,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What bonds make up a triple bond?": {
@@ -767,6 +935,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What causes signals to shift downfield?": {
@@ -802,6 +978,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines alkene stability?": {
@@ -837,6 +1021,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines IR absorption frequency?": {
@@ -872,6 +1064,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines reactivity of acid derivatives?": {
@@ -907,6 +1107,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines regioselectivity in EAS?": {
@@ -942,6 +1150,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines whether a pericyclic reaction is allowed?": {
@@ -977,6 +1193,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What do curved arrows represent?": {
@@ -1012,6 +1236,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does chemical shift indicate?": {
@@ -1047,6 +1279,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does cis mean?": {
@@ -1082,6 +1322,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does downfield mean?": {
@@ -1117,6 +1365,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does IR spectroscopy detect?": {
@@ -1152,6 +1408,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does LiAlH4 do?": {
@@ -1187,6 +1451,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does NaBH4 do?": {
@@ -1222,6 +1494,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the coupling constant indicate?": {
@@ -1257,6 +1537,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the molecular ion peak indicate?": {
@@ -1292,6 +1580,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does trans mean?": {
@@ -1327,6 +1623,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does upfield mean?": {
@@ -1362,6 +1666,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What functional groups in biology contain amines?": {
@@ -1397,6 +1709,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens in initiation?": {
@@ -1432,6 +1752,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens in termination?": {
@@ -1467,6 +1795,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What intermediate forms in hydrohalogenation?": {
@@ -1502,6 +1838,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What intermediate forms in reductive amination?": {
@@ -1537,6 +1881,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is 1,2-addition?": {
@@ -1572,6 +1924,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is 13C NMR used for?": {
@@ -1607,6 +1967,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a base strength trend?": {
@@ -1642,6 +2010,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Brønsted–Lowry acid?": {
@@ -1677,6 +2053,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Brønsted–Lowry base?": {
@@ -1712,6 +2096,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a carbocation?": {
@@ -1747,6 +2139,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a carboxylate ion?": {
@@ -1782,6 +2182,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a carboxylic acid?": {
@@ -1817,6 +2225,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a chiral center?": {
@@ -1852,6 +2268,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a common fragmentation pattern?": {
@@ -1887,6 +2311,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a concerted reaction?": {
@@ -1922,6 +2354,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a conjugate acid?": {
@@ -1957,6 +2397,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a conjugate base?": {
@@ -1992,6 +2440,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a covalent bond?": {
@@ -2027,6 +2483,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a crossed aldol reaction?": {
@@ -2062,6 +2526,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a cycloaddition reaction?": {
@@ -2097,6 +2569,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a dienophile?": {
@@ -2132,6 +2612,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a doublet?": {
@@ -2167,6 +2655,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a hemiacetal?": {
@@ -2202,6 +2698,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a hydrate?": {
@@ -2237,6 +2741,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a hydrocarbon?": {
@@ -2272,6 +2784,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Lewis acid?": {
@@ -2307,6 +2827,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Lewis base?": {
@@ -2342,6 +2870,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a nonpolar bond?": {
@@ -2377,6 +2913,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a nucleophile?": {
@@ -2412,6 +2956,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a pericyclic reaction?": {
@@ -2447,6 +2999,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a polar bond?": {
@@ -2482,6 +3042,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a primary amine?": {
@@ -2517,6 +3085,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a quartet?": {
@@ -2552,6 +3128,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a radical?": {
@@ -2587,6 +3171,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a ring flip?": {
@@ -2622,6 +3214,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a secondary amine?": {
@@ -2657,6 +3257,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a singlet?": {
@@ -2692,6 +3300,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a strong acid?": {
@@ -2727,6 +3343,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a substitution reaction?": {
@@ -2762,6 +3386,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a tertiary amine?": {
@@ -2797,6 +3429,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a triplet?": {
@@ -2832,6 +3472,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a weak acid?": {
@@ -2867,6 +3515,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is acylation of amines?": {
@@ -2902,6 +3558,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is alpha carbon?": {
@@ -2937,6 +3601,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is alpha cleavage?": {
@@ -2972,6 +3644,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is amidation?": {
@@ -3007,6 +3687,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an acetal?": {
@@ -3042,6 +3730,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an acetylide ion?": {
@@ -3077,6 +3773,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an acid chloride?": {
@@ -3112,6 +3816,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an alcohol?": {
@@ -3147,6 +3859,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an alkene?": {
@@ -3182,6 +3902,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an alkyne?": {
@@ -3217,6 +3945,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an amide?": {
@@ -3252,6 +3988,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an anhydride?": {
@@ -3287,6 +4031,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an electrocyclic reaction?": {
@@ -3322,6 +4074,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an electrophile?": {
@@ -3357,6 +4117,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an ester?": {
@@ -3392,6 +4160,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is angle strain?": {
@@ -3427,6 +4203,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is annulene?": {
@@ -3462,6 +4246,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is aromatic stabilization energy?": {
@@ -3497,6 +4289,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is benzene?": {
@@ -3532,6 +4332,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is broadband decoupling?": {
@@ -3567,6 +4375,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is carbocation rearrangement?": {
@@ -3602,6 +4418,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is chirality?": {
@@ -3637,6 +4461,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cyanohydrin formation?": {
@@ -3672,6 +4504,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cyclobutadiene?": {
@@ -3707,6 +4547,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cycloheptatrienyl cation (tropylium ion)?": {
@@ -3742,6 +4590,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cyclopentadienyl anion?": {
@@ -3777,6 +4633,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is decarboxylation?": {
@@ -3812,6 +4676,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is dehydrohalogenation?": {
@@ -3847,6 +4719,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is deshielding?": {
@@ -3882,6 +4762,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is diazotization?": {
@@ -3917,6 +4805,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is dihydroxylation?": {
@@ -3952,6 +4848,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is E1?": {
@@ -3987,6 +4891,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is E2?": {
@@ -4022,6 +4934,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is electron delocalization?": {
@@ -4057,6 +4977,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is electronegativity's role in acidity?": {
@@ -4092,6 +5020,57 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
+    }
+  },
+  "What is electronegativity?": {
+    "answer": "A measure of an atom’s ability to attract electrons in a bond.",
+    "subject": "Organic Chemistry",
+    "deck_name": "Organic Chemistry as a Second Language",
+    "difficulty": "Easy",
+    "difficulty_score": 23.99,
+    "correct_count": 0,
+    "missed_count": 0,
+    "review_count": 0,
+    "ease_factor": 2.16,
+    "interval_days": 0.0,
+    "repetitions": 0,
+    "lapse_count": 0,
+    "retention_rate": 0.0,
+    "lapse_rate": 0.0,
+    "due_at": null,
+    "last_reviewed": null,
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.0,
+      "difficulty": 0.494,
+      "retrievability": 0.0,
+      "quality": 0.0,
+      "repetition": 0,
+      "a_factor": 2.16,
+      "flags": 4,
+      "last_interval_days": 0.0,
+      "next_interval_days": 1.0,
+      "last_result": "new",
+      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is elimination reaction?": {
@@ -4127,6 +5106,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is esterification?": {
@@ -4162,6 +5149,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is fragmentation?": {
@@ -4197,6 +5192,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Friedel-Crafts alkylation?": {
@@ -4232,6 +5235,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is heterolytic cleavage?": {
@@ -4267,6 +5278,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Hofmann elimination?": {
@@ -4302,6 +5321,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is HOMO?": {
@@ -4337,6 +5364,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is homolytic cleavage?": {
@@ -4372,6 +5407,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hybridization?": {
@@ -4407,6 +5450,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hydrolysis of an ester?": {
@@ -4442,6 +5493,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is induction in acidity?": {
@@ -4477,6 +5536,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is inversion of configuration?": {
@@ -4512,6 +5579,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is IR spectroscopy?": {
@@ -4547,6 +5622,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is isomerism?": {
@@ -4582,6 +5665,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is isotopic pattern?": {
@@ -4617,6 +5708,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is kinetic enolate?": {
@@ -4652,6 +5751,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is LUMO?": {
@@ -4687,6 +5794,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is m/z?": {
@@ -4722,6 +5837,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is mass spectrometry?": {
@@ -4757,6 +5880,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is McLafferty rearrangement?": {
@@ -4792,6 +5923,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is molecular geometry?": {
@@ -4827,6 +5966,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is nucleophilic addition?": {
@@ -4862,6 +6009,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is optical activity?": {
@@ -4897,6 +6052,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is oxidation of aldehydes?": {
@@ -4932,6 +6095,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is oxidative cleavage?": {
@@ -4967,6 +6138,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is oxymercuration-demercuration?": {
@@ -5002,6 +6181,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is polysubstitution?": {
@@ -5037,6 +6224,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is racemization?": {
@@ -5072,6 +6267,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is reduction of a carbonyl?": {
@@ -5107,6 +6310,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is reduction of carboxylic acids?": {
@@ -5142,6 +6353,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is regioselectivity in radical reactions?": {
@@ -5177,6 +6396,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is resonance in enolates?": {
@@ -5212,6 +6439,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is resonance stabilization in radicals?": {
@@ -5247,6 +6482,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is resonance?": {
@@ -5282,6 +6525,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is retention of configuration?": {
@@ -5317,6 +6568,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is saponification?": {
@@ -5352,6 +6611,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is shielding?": {
@@ -5387,6 +6654,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is SN1?": {
@@ -5422,6 +6697,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is SN2?": {
@@ -5457,6 +6740,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is spin-spin splitting?": {
@@ -5492,6 +6783,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is stereochemistry?": {
@@ -5527,6 +6826,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is stereoselective reaction?": {
@@ -5562,6 +6869,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is steric strain?": {
@@ -5597,6 +6912,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is substitution reaction?": {
@@ -5632,6 +6955,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is sulfonation?": {
@@ -5667,6 +6998,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is syn dihydroxylation?": {
@@ -5702,6 +7041,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is tautomerization?": {
@@ -5737,6 +7084,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the alpha carbon?": {
@@ -5772,6 +7127,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the approximate pKa of carboxylic acids?": {
@@ -5807,6 +7170,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the base peak?": {
@@ -5842,6 +7213,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the bromine isotopic pattern?": {
@@ -5877,6 +7256,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the chlorine isotopic pattern?": {
@@ -5912,6 +7299,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the conjugate acid of an amine?": {
@@ -5947,6 +7342,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the electrophile in Friedel-Crafts acylation?": {
@@ -5982,6 +7385,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the electrophile in halogenation?": {
@@ -6017,6 +7428,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the electrophile in nitration?": {
@@ -6052,6 +7471,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the exception to directing rules?": {
@@ -6087,6 +7514,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the fingerprint region?": {
@@ -6122,6 +7557,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the first step of EAS?": {
@@ -6157,6 +7600,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Gabriel synthesis?": {
@@ -6192,6 +7643,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the general formula for acyclic alkanes?": {
@@ -6227,6 +7686,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the general formula for cycloalkanes?": {
@@ -6262,6 +7729,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the geometry of an sp carbon?": {
@@ -6297,6 +7772,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the geometry of an sp2 carbon?": {
@@ -6332,6 +7815,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Grignard reaction?": {
@@ -6367,6 +7858,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hybridization of carbon in alkenes?": {
@@ -6402,6 +7901,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hybridization of carbon in alkynes?": {
@@ -6437,6 +7944,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key advantage of pericyclic reactions?": {
@@ -6472,6 +7987,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key driving force in radical reactions?": {
@@ -6507,6 +8030,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key factor in cyclohexane stability?": {
@@ -6542,6 +8073,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key feature of carbonyl chemistry?": {
@@ -6577,6 +8116,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key feature of carboxylic acid chemistry?": {
@@ -6612,6 +8159,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key feature of EAS reactions?": {
@@ -6647,6 +8202,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key feature of enolate chemistry?": {
@@ -6682,6 +8245,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key property of amines in biology?": {
@@ -6717,6 +8288,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key step in SN1 and E1?": {
@@ -6752,6 +8331,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key use of IR?": {
@@ -6787,6 +8374,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key use of mass spectrometry?": {
@@ -6822,6 +8417,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the most stable conformation of cyclohexane?": {
@@ -6857,6 +8460,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the nitrogen rule?": {
@@ -6892,6 +8503,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the product of Claisen condensation?": {
@@ -6927,6 +8546,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the rate law for E1?": {
@@ -6962,6 +8589,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the rate law for E2?": {
@@ -6997,6 +8632,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the rate law for SN1?": {
@@ -7032,6 +8675,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the rate law for SN2?": {
@@ -7067,6 +8718,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the reactivity order of derivatives?": {
@@ -7102,6 +8761,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the regiochemistry of hydroboration-oxidation?": {
@@ -7137,6 +8804,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of solvents in acidity?": {
@@ -7172,6 +8847,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the sigma complex?": {
@@ -7207,6 +8890,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the stability of a conjugate base determined by?": {
@@ -7242,6 +8933,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the stereochemistry of Diels-Alder?": {
@@ -7277,6 +8976,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the stereochemistry of epoxidation?": {
@@ -7312,6 +9019,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the stereochemistry of halogenation?": {
@@ -7347,6 +9062,57 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
+    }
+  },
+  "What is the stereochemistry of hydroboration-oxidation?": {
+    "answer": "Syn addition (both groups add to same side).",
+    "subject": "Organic Chemistry",
+    "deck_name": "Organic Chemistry as a Second Language",
+    "difficulty": "Easy",
+    "difficulty_score": 24.06,
+    "correct_count": 0,
+    "missed_count": 0,
+    "review_count": 0,
+    "ease_factor": 2.159,
+    "interval_days": 0.0,
+    "repetitions": 0,
+    "lapse_count": 0,
+    "retention_rate": 0.0,
+    "lapse_rate": 0.0,
+    "due_at": null,
+    "last_reviewed": null,
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.0,
+      "difficulty": 0.495,
+      "retrievability": 0.0,
+      "quality": 0.0,
+      "repetition": 0,
+      "a_factor": 2.159,
+      "flags": 4,
+      "last_interval_days": 0.0,
+      "next_interval_days": 1.0,
+      "last_result": "new",
+      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the stereochemistry of hydrogenation?": {
@@ -7382,6 +9148,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the tetrahedral intermediate?": {
@@ -7417,6 +9191,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the third step of EAS?": {
@@ -7452,6 +9234,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the typical IR range?": {
@@ -7487,6 +9277,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Zaitsev product?": {
@@ -7522,6 +9320,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is thermodynamic enolate?": {
@@ -7557,6 +9363,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is TMS?": {
@@ -7592,6 +9406,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is torsional strain?": {
@@ -7627,6 +9449,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Zaitsev's rule?": {
@@ -7662,6 +9492,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What makes a good leaving group?": {
@@ -7697,6 +9535,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What problem occurs with amine alkylation?": {
@@ -7732,6 +9578,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What product is favored in Hofmann elimination?": {
@@ -7767,6 +9621,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What reagent reduces carboxylic acids?": {
@@ -7802,6 +9664,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What stabilizes a carboxylate ion?": {
@@ -7837,6 +9707,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of addition is acid-catalyzed hydration?": {
@@ -7872,6 +9750,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of alkyl halides work best for enolate alkylation?": {
@@ -7907,6 +9793,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of base favors E1?": {
@@ -7942,6 +9836,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of base favors E2?": {
@@ -7977,6 +9879,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of conditions favor SN1?": {
@@ -8012,6 +9922,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of nucleophile favors SN1?": {
@@ -8047,6 +9965,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of nucleophile favors SN2?": {
@@ -8082,6 +10008,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of nucleophiles favor SN2?": {
@@ -8117,6 +10051,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of reaction is enolate alkylation?": {
@@ -8152,6 +10094,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of substrate favors E1?": {
@@ -8187,6 +10137,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of substrate favors SN1?": {
@@ -8222,6 +10180,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of substrate favors SN2?": {
@@ -8257,6 +10223,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Where does C-H stretch appear?": {
@@ -8292,6 +10266,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Where does C≡C or C≡N stretch appear?": {
@@ -8327,6 +10309,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Where does O-H stretch appear?": {
@@ -8362,6 +10352,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which conformation is most stable?": {
@@ -8397,6 +10395,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which position is more stable for substituents?": {
@@ -8432,6 +10438,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which radical is most stable?": {
@@ -8467,6 +10481,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which substrates favor SN1?": {
@@ -8502,6 +10524,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Do HCl or HI undergo radical anti-Markovnikov addition?": {
@@ -8537,6 +10567,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Do lone pairs count in aromaticity?": {
@@ -8572,6 +10610,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are acetals formed?": {
@@ -8607,6 +10653,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do hydrogen bonds affect boiling points?": {
@@ -8642,6 +10696,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does induction affect acidity?": {
@@ -8677,6 +10739,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does resonance affect acidity?": {
@@ -8712,6 +10782,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does resonance affect amine basicity?": {
@@ -8747,6 +10825,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does solvent affect SN1?": {
@@ -8782,6 +10868,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does solvent affect SN2?": {
@@ -8817,6 +10911,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does temperature affect elimination vs substitution?": {
@@ -8852,6 +10954,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is an enolate formed?": {
@@ -8887,6 +10997,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How many bonds does carbon typically form?": {
@@ -8922,6 +11040,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How many π electrons does benzene have?": {
@@ -8957,6 +11083,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are 1,3-diaxial interactions?": {
@@ -8992,6 +11126,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are axial positions in cyclohexane?": {
@@ -9027,6 +11169,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are SN1 characteristics?": {
@@ -9062,6 +11212,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are SN2 characteristics?": {
@@ -9097,6 +11255,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main carboxylic acid derivatives?": {
@@ -9132,6 +11298,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main types of pericyclic reactions?": {
@@ -9167,6 +11341,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the three steps of a radical chain reaction?": {
@@ -9202,6 +11384,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the two products of conjugated diene addition?": {
@@ -9237,6 +11427,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are Woodward-Hoffmann rules?": {
@@ -9272,6 +11470,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What bases are commonly used to form enolates?": {
@@ -9307,6 +11513,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What conditions favor radical formation?": {
@@ -9342,6 +11556,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines bond polarity?": {
@@ -9377,6 +11599,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines carbocation stability?": {
@@ -9412,6 +11642,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines radical stability?": {
@@ -9447,6 +11685,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines regioselectivity in addition reactions?": {
@@ -9482,6 +11728,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines SN1 vs SN2 vs E1 vs E2?": {
@@ -9517,6 +11771,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines stereoselectivity in addition reactions?": {
@@ -9552,6 +11814,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines whether substitution or elimination occurs?": {
@@ -9587,6 +11857,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does a Grignard reagent act as?": {
@@ -9622,6 +11900,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does pKa measure?": {
@@ -9657,6 +11943,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does R configuration mean?": {
@@ -9692,6 +11986,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does S configuration mean?": {
@@ -9727,6 +12029,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What factors affect amine basicity?": {
@@ -9762,6 +12072,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens if a molecule is not planar?": {
@@ -9797,6 +12115,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens in propagation?": {
@@ -9832,6 +12158,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens when two groups are swapped in a Fischer projection?": {
@@ -9867,6 +12201,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What initiates halogenation of alkanes?": {
@@ -9902,6 +12244,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What intermediate forms in halogenation?": {
@@ -9937,6 +12287,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is 1,4-addition?": {
@@ -9972,6 +12330,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a beta-hydroxy carbonyl?": {
@@ -10007,6 +12373,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a carbocation rearrangement?": {
@@ -10042,6 +12416,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a conjugated diene?": {
@@ -10077,6 +12459,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a conjugated system?": {
@@ -10112,6 +12502,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a constitutional isomer?": {
@@ -10147,6 +12545,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a cumulated diene?": {
@@ -10182,6 +12588,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a directing group?": {
@@ -10217,6 +12631,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Fischer projection?": {
@@ -10252,6 +12674,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a functional group?": {
@@ -10287,6 +12717,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a ketone?": {
@@ -10322,6 +12760,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a leaving group?": {
@@ -10357,6 +12803,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Lewis structure?": {
@@ -10392,6 +12846,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a meso compound?": {
@@ -10427,6 +12889,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Newman projection?": {
@@ -10462,6 +12932,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a non-conjugated diene?": {
@@ -10497,6 +12975,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a quaternary ammonium ion?": {
@@ -10532,6 +13018,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a racemic mixture?": {
@@ -10567,6 +13061,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a sigma (σ) bond?": {
@@ -10602,6 +13104,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a sigmatropic rearrangement?": {
@@ -10637,6 +13147,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a staggered conformation?": {
@@ -10672,6 +13190,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a terminal alkyne?": {
@@ -10707,6 +13233,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is aldol condensation?": {
@@ -10742,6 +13276,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is alkylation of amines?": {
@@ -10777,6 +13319,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is alkylation of enolates?": {
@@ -10812,6 +13362,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is allylic radical?": {
@@ -10847,6 +13405,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an addition reaction?": {
@@ -10882,6 +13448,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an aldehyde?": {
@@ -10917,6 +13491,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an alpha,beta-unsaturated carbonyl?": {
@@ -10952,6 +13534,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an antiaromatic compound?": {
@@ -10987,6 +13577,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an aromatic compound?": {
@@ -11022,6 +13620,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an eclipsed conformation?": {
@@ -11057,6 +13663,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an elimination reaction?": {
@@ -11092,6 +13706,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an enolate?": {
@@ -11127,6 +13749,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an imine?": {
@@ -11162,6 +13792,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is anti dihydroxylation?": {
@@ -11197,6 +13835,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is aromaticity?": {
@@ -11232,6 +13878,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is benzylic radical?": {
@@ -11267,6 +13921,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Claisen condensation?": {
@@ -11302,6 +13964,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is conformational chirality?": {
@@ -11337,6 +14007,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is conformational isomerism?": {
@@ -11372,6 +14050,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is coupling constant (J)?": {
@@ -11407,6 +14093,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is D2O shake?": {
@@ -11442,6 +14136,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is DEPT NMR?": {
@@ -11477,41 +14179,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
-    }
-  },
-  "What is electronegativity?": {
-    "answer": "A measure of an atom’s ability to attract electrons in a bond.",
-    "subject": "Organic Chemistry",
-    "deck_name": "Organic Chemistry as a Second Language",
-    "difficulty": "Medium",
-    "difficulty_score": 23.99,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.16,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.494,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.16,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is electrophilic addition?": {
@@ -11547,6 +14222,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is epoxidation?": {
@@ -11582,6 +14265,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is equilibrium in acid–base reactions?": {
@@ -11617,6 +14308,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is formal charge?": {
@@ -11652,6 +14351,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Friedel-Crafts acylation?": {
@@ -11687,6 +14394,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is halogenation of alkenes?": {
@@ -11722,6 +14437,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is halohydrin formation?": {
@@ -11757,6 +14480,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hydration of an alkene?": {
@@ -11792,6 +14523,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hydroboration-oxidation?": {
@@ -11827,6 +14566,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hydrogenation of alkenes?": {
@@ -11862,6 +14609,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hydrogenation?": {
@@ -11897,6 +14652,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hydrohalogenation?": {
@@ -11932,6 +14695,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hyperconjugation?": {
@@ -11967,6 +14738,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is integration in 1H NMR?": {
@@ -12002,6 +14781,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is keto-enol tautomerization?": {
@@ -12037,6 +14824,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Markovnikov's rule?": {
@@ -12072,6 +14867,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Michael addition?": {
@@ -12107,6 +14910,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is nitration of benzene?": {
@@ -12142,6 +14953,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is NMR spectroscopy?": {
@@ -12177,6 +14996,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is nucleophilic acyl substitution?": {
@@ -12212,6 +15039,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is organic chemistry?": {
@@ -12247,6 +15082,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is radical halogenation mechanism step 1?": {
@@ -12282,6 +15125,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is reductive amination?": {
@@ -12317,6 +15168,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is required for a Diels-Alder reaction?": {
@@ -12352,6 +15211,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is resonance stabilization?": {
@@ -12387,6 +15254,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ring strain?": {
@@ -12422,6 +15297,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is sp hybridization?": {
@@ -12457,6 +15340,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is sp3 hybridization?": {
@@ -12492,6 +15383,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is stereospecific reaction?": {
@@ -12527,6 +15426,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the aldol reaction?": {
@@ -12562,6 +15469,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the anti conformation?": {
@@ -12597,6 +15512,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Diels-Alder reaction?": {
@@ -12632,6 +15555,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the E/Z system?": {
@@ -12667,6 +15598,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the endo rule?": {
@@ -12702,6 +15641,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the gauche conformation?": {
@@ -12737,6 +15684,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Hammond postulate?": {
@@ -12772,6 +15727,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Hofmann product?": {
@@ -12807,6 +15770,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key difference between SN2 and E2?": {
@@ -12842,6 +15813,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key rule for predicting acid-base reactions?": {
@@ -12877,6 +15856,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key strategy for solving NMR problems?": {
@@ -12912,6 +15899,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the molecular ion (M+)?": {
@@ -12947,6 +15942,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the most important strategy for predicting reactions?": {
@@ -12982,6 +15985,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the octet rule?": {
@@ -13017,6 +16028,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the R/S system?": {
@@ -13052,6 +16071,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the regiochemistry of halohydrin formation?": {
@@ -13087,6 +16114,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between chirality and symmetry?": {
@@ -13122,41 +16157,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
-    }
-  },
-  "What is the stereochemistry of hydroboration-oxidation?": {
-    "answer": "Syn addition (both groups add to same side).",
-    "subject": "Organic Chemistry",
-    "deck_name": "Organic Chemistry as a Second Language",
-    "difficulty": "Medium",
-    "difficulty_score": 24.06,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.159,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.495,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.159,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What reagent performs oxidative cleavage?": {
@@ -13192,6 +16200,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What reduces the number of stereoisomers from 2^n?": {
@@ -13227,6 +16243,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of reactions do aromatic compounds undergo?": {
@@ -13262,6 +16286,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What values of π electrons satisfy Hückel's rule?": {
@@ -13297,6 +16329,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Where can an enolate act as a nucleophile?": {
@@ -13332,6 +16372,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Where does C=C stretch appear?": {
@@ -13367,6 +16415,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Where does C=O stretch appear?": {
@@ -13402,6 +16458,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Where does N-H stretch appear?": {
@@ -13437,6 +16501,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which alkene is more stable: more substituted or less substituted?": {
@@ -13472,6 +16544,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which form is usually more stable: keto or enol?": {
@@ -13507,6 +16587,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which halogen is more reactive: Cl2 or Br2?": {
@@ -13542,6 +16630,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which is more reactive: aldehydes or ketones?": {
@@ -13577,6 +16673,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which is more stable: anti or gauche?": {
@@ -13612,6 +16716,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which nuclei are commonly observed in NMR?": {
@@ -13647,6 +16759,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which product is kinetically favored?": {
@@ -13682,6 +16802,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which substrates favor SN2?": {
@@ -13717,6 +16845,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are 13C signals usually singlets?": {
@@ -13752,6 +16888,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are acetals important?": {
@@ -13787,6 +16931,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are acid chlorides most reactive?": {
@@ -13822,6 +16974,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are alcohols polar?": {
@@ -13857,6 +17017,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are alpha hydrogens acidic?": {
@@ -13892,6 +17060,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are amides least reactive?": {
@@ -13927,6 +17103,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are aromatic compounds stable?": {
@@ -13962,6 +17146,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are carboxylic acids acidic?": {
@@ -13997,6 +17189,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are halogens ortho/para directors?": {
@@ -14032,6 +17232,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are HOMO-LUMO interactions important?": {
@@ -14067,6 +17275,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are some annulenes not aromatic?": {
@@ -14102,6 +17318,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why can't double bonds freely rotate?": {
@@ -14137,6 +17361,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do activating groups direct ortho/para?": {
@@ -14172,6 +17404,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do aromatic compounds undergo substitution instead of addition?": {
@@ -14207,6 +17447,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do deactivating groups direct meta?": {
@@ -14242,6 +17490,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do molecules fragment in MS?": {
@@ -14277,6 +17533,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why does Markovnikov's rule occur?": {
@@ -14312,6 +17576,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is cyclopentane more stable?": {
@@ -14347,6 +17619,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is O-H peak broad?": {
@@ -14382,6 +17662,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is the chair conformation stable?": {
@@ -14417,6 +17705,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are alcohols classified?": {
@@ -14452,6 +17748,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are alkyl halides classified?": {
@@ -14487,6 +17791,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are alkynes used in synthesis?": {
@@ -14522,6 +17834,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are amines classified?": {
@@ -14557,6 +17877,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are priorities assigned in R/S naming?": {
@@ -14592,6 +17920,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are radicals formed?": {
@@ -14627,6 +17963,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How can OH be made a better leaving group?": {
@@ -14662,6 +18006,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do alkyl groups affect basicity?": {
@@ -14697,6 +18049,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do IR and MS complement each other?": {
@@ -14732,6 +18092,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does atom size affect acidity?": {
@@ -14767,6 +18135,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does basicity of amines compare to alcohols?": {
@@ -14802,6 +18178,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How many stereoisomers are possible with n chiral centers?": {
@@ -14837,6 +18221,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are carboxylic acid derivatives?": {
@@ -14872,6 +18264,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are E1 characteristics?": {
@@ -14907,6 +18307,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the four requirements for aromaticity?": {
@@ -14942,6 +18350,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are typical 1H NMR chemical shift ranges?": {
@@ -14977,6 +18393,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines kinetic vs thermodynamic enolate formation?": {
@@ -15012,6 +18436,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does E mean in E/Z notation?": {
@@ -15047,6 +18479,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does Z mean in E/Z notation?": {
@@ -15082,6 +18522,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a carbonyl group?": {
@@ -15117,6 +18565,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a carboxyl group?": {
@@ -15152,6 +18608,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a heteroaromatic compound?": {
@@ -15187,6 +18651,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a line-angle structure?": {
@@ -15222,6 +18694,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a nonaromatic compound?": {
@@ -15257,6 +18737,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a pi (π) bond?": {
@@ -15292,6 +18780,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a termination step?": {
@@ -15327,6 +18823,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a wedge-dash structure?": {
@@ -15362,6 +18866,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an acid-base reaction mechanism?": {
@@ -15397,6 +18909,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an alkyl halide?": {
@@ -15432,6 +18952,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an amine?": {
@@ -15467,6 +18995,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an enamine?": {
@@ -15502,6 +19038,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an enol?": {
@@ -15537,6 +19081,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an example of a termination step?": {
@@ -15572,6 +19124,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is anti-Markovnikov addition with radicals?": {
@@ -15607,6 +19167,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is chemical shift?": {
@@ -15642,6 +19210,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cis-trans (geometric) isomerism?": {
@@ -15677,6 +19253,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is conjugate (1,4) addition?": {
@@ -15712,6 +19296,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is electrophilic aromatic substitution (EAS)?": {
@@ -15747,6 +19339,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is exchangeable proton?": {
@@ -15782,6 +19382,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is halogenation of alkanes?": {
@@ -15817,6 +19425,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is halogenation of benzene?": {
@@ -15852,6 +19468,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hybridization's effect on acidity?": {
@@ -15887,6 +19511,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Hückel's rule?": {
@@ -15922,6 +19554,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is inversion of configuration in stereochemistry?": {
@@ -15957,6 +19597,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is radical halogenation mechanism step 2?": {
@@ -15992,6 +19640,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is radical halogenation mechanism step 3?": {
@@ -16027,6 +19683,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is resonance energy?": {
@@ -16062,6 +19726,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is sp2 hybridization?": {
@@ -16097,6 +19769,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the anti-periplanar requirement?": {
@@ -16132,6 +19812,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key difference between aromatic and antiaromatic?": {
@@ -16167,6 +19855,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key difference between SN1 and E1?": {
@@ -16202,6 +19898,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key strategy for determining aromaticity?": {
@@ -16237,6 +19941,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the mechanism of nucleophilic acyl substitution?": {
@@ -16272,6 +19984,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the n+1 rule?": {
@@ -16307,6 +20027,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between pKa and acid strength?": {
@@ -16342,6 +20070,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of hybridization in aromaticity?": {
@@ -16377,6 +20113,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the second step of EAS?": {
@@ -16412,6 +20156,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What type of substrate favors E2?": {
@@ -16447,6 +20199,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Where do curved arrows start and end?": {
@@ -16482,6 +20242,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which groups are meta directors?": {
@@ -16517,6 +20285,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which groups are ortho/para directors?": {
@@ -16552,6 +20328,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which halide is the best leaving group?": {
@@ -16587,6 +20371,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which product is thermodynamically favored?": {
@@ -16622,6 +20414,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which side of an acid-base reaction is favored?": {
@@ -16657,6 +20457,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are alkenes reactive in addition reactions?": {
@@ -16692,6 +20500,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are alkenes reactive?": {
@@ -16727,6 +20543,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are amines basic?": {
@@ -16762,6 +20586,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are aromatic amines less basic?": {
@@ -16797,6 +20629,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are conjugated systems more stable?": {
@@ -16832,6 +20672,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are sp-hybridized C-H bonds more acidic than sp3?": {
@@ -16867,6 +20715,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are terminal alkynes acidic?": {
@@ -16902,6 +20758,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do alkyl halides have higher boiling points than alkanes?": {
@@ -16937,6 +20801,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do SN1 reactions lead to racemization?": {
@@ -16972,6 +20844,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why does HBr show anti-Markovnikov addition in radical conditions?": {
@@ -17007,6 +20887,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is benzene planar?": {
@@ -17042,6 +20930,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is bromination more selective than chlorination?": {
@@ -17077,6 +20973,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is carbon uniquely suited for organic chemistry?": {
@@ -17112,6 +21016,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is cyclobutane strained?": {
@@ -17147,6 +21059,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is cyclopropane highly strained?": {
@@ -17182,6 +21102,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is I- a good leaving group?": {
@@ -17217,6 +21145,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is OH- a poor leaving group?": {
@@ -17252,6 +21188,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is organic chemistry important in biology?": {
@@ -17287,6 +21231,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is stereochemistry important in biology?": {
@@ -17322,6 +21274,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is the carbonyl carbon electrophilic?": {
@@ -17357,6 +21317,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   }
 }

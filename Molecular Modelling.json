@@ -32,6 +32,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are dispersion forces?": {
@@ -67,6 +75,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are electrostatic interactions?": {
@@ -102,6 +118,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are hybrid functionals?": {
@@ -137,6 +161,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are improper torsions used for?": {
@@ -172,6 +204,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are ion-dipole interactions?": {
@@ -207,6 +247,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are MNDO, AM1, and PM3?": {
@@ -242,6 +290,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are molecular interactions?": {
@@ -277,6 +333,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are molecular orbitals?": {
@@ -312,6 +376,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are partial charges?": {
@@ -347,6 +419,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are polarization functions?": {
@@ -382,6 +462,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are post-Hartree-Fock methods?": {
@@ -417,6 +505,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are van der Waals interactions?": {
@@ -452,6 +548,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines interaction strength?": {
@@ -487,6 +591,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does 'ab initio' mean?": {
@@ -522,6 +634,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does NDO stand for?": {
@@ -557,6 +677,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What drives the hydrophobic effect?": {
@@ -592,6 +720,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is 3D-QSAR?": {
@@ -627,6 +763,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a binding site?": {
@@ -662,6 +806,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a chair conformation?": {
@@ -697,6 +849,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a common issue with semiempirical methods for inorganic systems?": {
@@ -732,6 +892,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a common solvent used in simulations?": {
@@ -767,6 +935,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a conformer?": {
@@ -802,6 +978,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a contact map?": {
@@ -837,6 +1021,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a force field file?": {
@@ -872,6 +1064,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a hybrid solvent model?": {
@@ -907,6 +1107,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a ligand?": {
@@ -942,6 +1150,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a limitation of DFT?": {
@@ -977,6 +1193,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a reaction coordinate?": {
@@ -1012,6 +1236,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a solvation shell?": {
@@ -1047,6 +1279,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a trial move in Monte Carlo simulation?": {
@@ -1082,6 +1322,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ab initio protein prediction?": {
@@ -1117,6 +1365,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is AlphaFold?": {
@@ -1152,6 +1408,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is applicability domain in QSAR?": {
@@ -1187,6 +1451,57 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
+    }
+  },
+  "What is B3LYP?": {
+    "answer": "A widely used hybrid functional combining Becke exchange and Lee-Yang-Parr correlation.",
+    "subject": "Molecular Modeling",
+    "deck_name": "Molecular Modelling",
+    "difficulty": "Easy",
+    "difficulty_score": 23.99,
+    "correct_count": 0,
+    "missed_count": 0,
+    "review_count": 0,
+    "ease_factor": 2.16,
+    "interval_days": 0.0,
+    "repetitions": 0,
+    "lapse_count": 0,
+    "retention_rate": 0.0,
+    "lapse_rate": 0.0,
+    "due_at": null,
+    "last_reviewed": null,
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.0,
+      "difficulty": 0.494,
+      "retrievability": 0.0,
+      "quality": 0.0,
+      "repetition": 0,
+      "a_factor": 2.16,
+      "flags": 4,
+      "last_interval_days": 0.0,
+      "next_interval_days": 1.0,
+      "last_result": "new",
+      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is binding affinity?": {
@@ -1222,6 +1537,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is CNDO?": {
@@ -1257,6 +1580,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is coevolution analysis?": {
@@ -1292,6 +1623,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is competitive interaction?": {
@@ -1327,6 +1666,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is CoMSIA?": {
@@ -1362,6 +1709,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is conformational equilibrium?": {
@@ -1397,6 +1752,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cooperative interaction?": {
@@ -1432,6 +1795,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is detailed balance?": {
@@ -1467,6 +1838,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is drug specificity?": {
@@ -1502,6 +1881,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is electron density?": {
@@ -1537,6 +1924,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Gibbs ensemble Monte Carlo?": {
@@ -1572,6 +1967,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is GPU acceleration?": {
@@ -1607,6 +2010,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is homology modeling?": {
@@ -1642,6 +2053,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hydrophobic effect?": {
@@ -1677,6 +2096,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is importance sampling?": {
@@ -1712,6 +2139,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is induced fit?": {
@@ -1747,6 +2182,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ion solvation?": {
@@ -1782,6 +2225,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is model validation in protein prediction?": {
@@ -1817,6 +2268,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is off-target effect?": {
@@ -1852,6 +2311,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is parallel computing?": {
@@ -1887,6 +2354,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Pauli repulsion?": {
@@ -1922,6 +2397,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is periodic DFT?": {
@@ -1957,6 +2440,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is pseudopotential in DFT?": {
@@ -1992,6 +2483,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is QSAR?": {
@@ -2027,6 +2526,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is scripting in computational chemistry?": {
@@ -2062,6 +2569,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is SPC?": {
@@ -2097,6 +2612,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the advantage of implicit solvent models?": {
@@ -2132,6 +2655,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the assumption behind homology modeling?": {
@@ -2167,6 +2698,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Born-Oppenheimer approximation?": {
@@ -2202,6 +2741,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the fundamental equation of quantum mechanics?": {
@@ -2237,6 +2784,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the gauche conformation?": {
@@ -2272,6 +2827,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the goal of Monte Carlo simulation?": {
@@ -2307,6 +2870,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hydrophobic effect?": {
@@ -2342,6 +2913,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key variable in DFT?": {
@@ -2377,6 +2956,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the main goal of semiempirical methods?": {
@@ -2412,6 +2999,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the most stable conformation of butane?": {
@@ -2447,6 +3042,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the most stable conformation of ethane?": {
@@ -2482,6 +3085,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of machine learning in QSAR?": {
@@ -2517,6 +3128,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the test set?": {
@@ -2552,6 +3171,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the training set?": {
@@ -2587,6 +3214,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is TIP3P?": {
@@ -2622,6 +3257,57 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
+    }
+  },
+  "What is TIP4P?": {
+    "answer": "A four-site water model with an additional dummy atom to improve accuracy.",
+    "subject": "Molecular Modeling",
+    "deck_name": "Molecular Modelling",
+    "difficulty": "Easy",
+    "difficulty_score": 23.99,
+    "correct_count": 0,
+    "missed_count": 0,
+    "review_count": 0,
+    "ease_factor": 2.16,
+    "interval_days": 0.0,
+    "repetitions": 0,
+    "lapse_count": 0,
+    "retention_rate": 0.0,
+    "lapse_rate": 0.0,
+    "due_at": null,
+    "last_reviewed": null,
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.0,
+      "difficulty": 0.494,
+      "retrievability": 0.0,
+      "quality": 0.0,
+      "repetition": 0,
+      "a_factor": 2.16,
+      "flags": 4,
+      "last_interval_days": 0.0,
+      "next_interval_days": 1.0,
+      "last_result": "new",
+      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is torsional strain?": {
@@ -2657,6 +3343,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is virtual screening?": {
@@ -2692,6 +3386,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is workflow automation?": {
@@ -2727,6 +3429,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What law describes electrostatic interactions?": {
@@ -2762,6 +3472,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are molecular interactions modeled computationally?": {
@@ -2797,6 +3515,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are ab initio methods in molecular modelling?": {
@@ -2832,6 +3558,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are basis sets in ab initio methods?": {
@@ -2867,6 +3601,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are basis sets in DFT?": {
@@ -2902,6 +3644,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are basis sets in QM methods?": {
@@ -2937,6 +3687,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are best practices in computational chemistry?": {
@@ -2972,6 +3730,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are common force fields used in molecular mechanics?": {
@@ -3007,6 +3773,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are common molecular file formats?": {
@@ -3042,6 +3816,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are common types of computational chemistry software?": {
@@ -3077,6 +3859,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are common water models in explicit simulations?": {
@@ -3112,6 +3902,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are cutoff distances in molecular mechanics?": {
@@ -3147,6 +3945,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are diffuse functions?": {
@@ -3182,6 +3988,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are examples of molecular docking software?": {
@@ -3217,6 +4031,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are examples of molecular dynamics software?": {
@@ -3252,6 +4074,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are examples of quantum chemistry software?": {
@@ -3287,6 +4117,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are implicit and explicit solvent models?": {
@@ -3322,6 +4160,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are induced dipole interactions?": {
@@ -3357,6 +4203,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are limitations of protein structure prediction?": {
@@ -3392,6 +4246,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are nonbonded interactions?": {
@@ -3427,6 +4289,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are periodic boundary conditions in solvent simulations?": {
@@ -3462,6 +4332,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are periodic boundary conditions?": {
@@ -3497,6 +4375,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are quasi-Newton methods?": {
@@ -3532,6 +4418,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are semiempirical methods in molecular modelling?": {
@@ -3567,6 +4461,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are solvent models in molecular modelling?": {
@@ -3602,6 +4504,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are split-valence basis sets?": {
@@ -3637,6 +4547,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are staggered and eclipsed conformations?": {
@@ -3672,6 +4590,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main forces in ligand–protein interactions?": {
@@ -3707,6 +4633,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main goals of molecular modelling?": {
@@ -3742,6 +4676,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main types of molecular interactions?": {
@@ -3777,6 +4719,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the two main types of solvent models?": {
@@ -3812,6 +4762,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are typical components of a force field?": {
@@ -3847,6 +4805,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does molecular mechanics modelling focus on?": {
@@ -3882,6 +4848,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the NPT ensemble represent?": {
@@ -3917,6 +4891,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the NVT ensemble represent?": {
@@ -3952,6 +4934,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the Schrödinger equation describe?": {
@@ -3987,6 +4977,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does |ψ|^2 represent?": {
@@ -4022,6 +5020,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What fundamental law governs molecular dynamics simulations?": {
@@ -4057,6 +5063,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens if a trial move lowers the energy?": {
@@ -4092,6 +5106,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a barostat in MD?": {
@@ -4127,6 +5149,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a configuration in Monte Carlo simulation?": {
@@ -4162,6 +5192,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a conformation?": {
@@ -4197,6 +5235,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a descriptor in QSAR?": {
@@ -4232,6 +5278,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a global minimum on a PES?": {
@@ -4267,6 +5321,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a hybrid QM/MM method?": {
@@ -4302,6 +5364,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a limitation of Monte Carlo simulation?": {
@@ -4337,6 +5407,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a limitation of quantum mechanics methods?": {
@@ -4372,6 +5450,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a limitation of R^2?": {
@@ -4407,6 +5493,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a limitation of semiempirical methods?": {
@@ -4442,6 +5536,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a limitation of steepest descent?": {
@@ -4477,6 +5579,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Markov chain in Monte Carlo simulation?": {
@@ -4512,6 +5622,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a minimal basis set?": {
@@ -4547,6 +5665,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Newman projection?": {
@@ -4582,6 +5708,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a PDB file?": {
@@ -4617,6 +5751,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a polarizable force field?": {
@@ -4652,6 +5794,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a QSAR model?": {
@@ -4687,6 +5837,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a receptor or target protein?": {
@@ -4722,6 +5880,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a ring flip?": {
@@ -4757,6 +5923,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a saddle point on a PES?": {
@@ -4792,6 +5966,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a scoring function in docking?": {
@@ -4827,6 +6009,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a scoring function in structure prediction?": {
@@ -4862,6 +6052,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a template in protein modeling?": {
@@ -4897,6 +6095,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a thermostat in MD?": {
@@ -4932,6 +6138,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a time step in MD simulations?": {
@@ -4967,6 +6181,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a torsion (dihedral) angle?": {
@@ -5002,6 +6224,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a trajectory in molecular dynamics?": {
@@ -5037,6 +6267,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a wavefunction (ψ)?": {
@@ -5072,6 +6310,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ADME in drug design?": {
@@ -5107,6 +6353,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is AM1?": {
@@ -5142,6 +6396,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an explicit solvent model?": {
@@ -5177,6 +6439,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an implicit solvent model?": {
@@ -5212,6 +6482,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an orbital?": {
@@ -5247,6 +6525,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an output file?": {
@@ -5282,6 +6568,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is angle strain?": {
@@ -5317,41 +6611,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
-    }
-  },
-  "What is B3LYP?": {
-    "answer": "A widely used hybrid functional combining Becke exchange and Lee-Yang-Parr correlation.",
-    "subject": "Molecular Modeling",
-    "deck_name": "Molecular Modelling",
-    "difficulty": "Medium",
-    "difficulty_score": 23.99,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.16,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.494,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.16,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is coarse-grained modelling?": {
@@ -5387,6 +6654,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is CoMFA?": {
@@ -5422,6 +6697,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is computational chemistry software?": {
@@ -5457,6 +6740,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is configuration interaction (CI)?": {
@@ -5492,6 +6783,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is convergence in computational chemistry?": {
@@ -5527,6 +6826,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cross-validation?": {
@@ -5562,6 +6869,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cutoff distance in simulations?": {
@@ -5597,6 +6912,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is dielectric constant in solvent models?": {
@@ -5632,6 +6955,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is diffusion in MD simulations?": {
@@ -5667,6 +6998,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is drug design?": {
@@ -5702,6 +7041,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is electron correlation?": {
@@ -5737,6 +7084,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is energy minimization in protein prediction?": {
@@ -5772,6 +7127,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is enthalpy-entropy compensation?": {
@@ -5807,6 +7170,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is equilibration in MD simulations?": {
@@ -5842,6 +7213,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is equilibration in Monte Carlo simulation?": {
@@ -5877,6 +7256,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ergodicity in Monte Carlo simulation?": {
@@ -5912,6 +7299,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is error handling in simulations?": {
@@ -5947,6 +7342,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is feature selection in QSAR?": {
@@ -5982,6 +7385,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is file format compatibility?": {
@@ -6017,6 +7428,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hydrogen bonding?": {
@@ -6052,6 +7471,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is INDO?": {
@@ -6087,6 +7514,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is input file preparation?": {
@@ -6122,6 +7557,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is job submission in computational chemistry?": {
@@ -6157,6 +7600,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is lead compound?": {
@@ -6192,6 +7643,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is lead optimization?": {
@@ -6227,6 +7686,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is line search in minimization?": {
@@ -6262,6 +7729,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is lock-and-key model?": {
@@ -6297,6 +7772,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is long-range interaction?": {
@@ -6332,6 +7815,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is MNDO?": {
@@ -6367,6 +7858,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is molecular docking?": {
@@ -6402,6 +7901,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is molecular modelling?": {
@@ -6437,6 +7944,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Monte Carlo simulation in molecular modelling?": {
@@ -6472,6 +7987,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is NDDO?": {
@@ -6507,6 +8030,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is overfitting in QSAR?": {
@@ -6542,6 +8073,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is parameterization in force fields?": {
@@ -6577,6 +8116,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is parameterization in semiempirical methods?": {
@@ -6612,6 +8159,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is pharmacophore modeling?": {
@@ -6647,6 +8202,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is plane-wave basis in DFT?": {
@@ -6682,6 +8245,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is PM3?": {
@@ -6717,6 +8288,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is production run in MD?": {
@@ -6752,6 +8331,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein structure prediction?": {
@@ -6787,6 +8374,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is QM/MM?": {
@@ -6822,6 +8417,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is quantum chemistry software?": {
@@ -6857,6 +8460,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is reproducibility in computational chemistry?": {
@@ -6892,6 +8503,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ring strain?": {
@@ -6927,6 +8546,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is RMSD in MD analysis?": {
@@ -6962,6 +8589,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is RMSF in MD analysis?": {
@@ -6997,6 +8632,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is sequence alignment?": {
@@ -7032,6 +8675,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is short-range interaction?": {
@@ -7067,6 +8718,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is solvation energy?": {
@@ -7102,6 +8761,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is spin density in DFT?": {
@@ -7137,6 +8804,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the advantage of explicit solvent models?": {
@@ -7172,6 +8847,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the advantage of Monte Carlo over molecular dynamics?": {
@@ -7207,6 +8890,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the anti conformation?": {
@@ -7242,6 +8933,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the BFGS algorithm?": {
@@ -7277,6 +8976,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the central assumption of molecular mechanics?": {
@@ -7312,6 +9019,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the computational advantage of DFT?": {
@@ -7347,6 +9062,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the conjugate gradient method?": {
@@ -7382,6 +9105,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the core approximation used in many semiempirical methods?": {
@@ -7417,6 +9148,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the disadvantage of explicit solvent models?": {
@@ -7452,6 +9191,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the disadvantage of implicit solvent models?": {
@@ -7487,6 +9234,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the exchange-correlation functional?": {
@@ -7522,6 +9277,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the goal of QSAR?": {
@@ -7557,6 +9320,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the grand canonical ensemble?": {
@@ -7592,6 +9363,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the importance of computational efficiency in molecular modelling?": {
@@ -7627,6 +9406,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Kohn-Sham approach?": {
@@ -7662,6 +9449,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the leapfrog algorithm?": {
@@ -7697,6 +9492,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Lennard-Jones potential used for?": {
@@ -7732,6 +9535,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Lennard-Jones potential?": {
@@ -7767,6 +9578,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the limitation of molecular mechanics?": {
@@ -7802,6 +9621,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the main advantage of ab initio methods?": {
@@ -7837,6 +9664,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the main limitation of ab initio methods?": {
@@ -7872,6 +9707,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Newton-Raphson method?": {
@@ -7907,6 +9750,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the protein folding problem?": {
@@ -7942,6 +9793,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of ab initio methods in chemistry?": {
@@ -7977,6 +9836,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of computational methods in drug design?": {
@@ -8012,6 +9879,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of initial structure in minimization?": {
@@ -8047,6 +9922,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of machine learning in protein prediction?": {
@@ -8082,6 +9965,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the significance of a high R^2 value?": {
@@ -8117,6 +10008,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the trade-off in semiempirical methods?": {
@@ -8152,6 +10051,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the velocity Verlet algorithm?": {
@@ -8187,6 +10094,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Verlet algorithm?": {
@@ -8222,41 +10137,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
-    }
-  },
-  "What is TIP4P?": {
-    "answer": "A four-site water model with an additional dummy atom to improve accuracy.",
-    "subject": "Molecular Modeling",
-    "deck_name": "Molecular Modelling",
-    "difficulty": "Medium",
-    "difficulty_score": 23.99,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.16,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.494,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.16,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is transferability in force fields?": {
@@ -8292,6 +10180,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is transferability in semiempirical methods?": {
@@ -8327,6 +10223,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is version control?": {
@@ -8362,6 +10266,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What limits the timescale of MD simulations?": {
@@ -8397,6 +10309,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What properties can DFT predict?": {
@@ -8432,6 +10352,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What properties can semiempirical methods predict?": {
@@ -8467,6 +10395,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of descriptors are used in QSAR?": {
@@ -8502,6 +10438,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of moves are used in Monte Carlo simulations?": {
@@ -8537,6 +10481,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of problems can molecular modelling address?": {
@@ -8572,6 +10524,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of systems are semiempirical methods best suited for?": {
@@ -8607,6 +10567,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of systems are studied using MD?": {
@@ -8642,6 +10610,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which conformation is more stable: staggered or eclipsed?": {
@@ -8677,6 +10653,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which positions are more stable for bulky substituents?": {
@@ -8712,6 +10696,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are hydrogen bonds important?": {
@@ -8747,6 +10739,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are torsion angles important?": {
@@ -8782,6 +10782,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is ADME important?": {
@@ -8817,6 +10825,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is electron correlation important?": {
@@ -8852,6 +10868,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is protein structure prediction important?": {
@@ -8887,6 +10911,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is the exchange-correlation functional important?": {
@@ -8922,6 +10954,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are conformational populations determined?": {
@@ -8957,6 +10997,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do ab initio methods compare to DFT?": {
@@ -8992,6 +11040,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do ab initio methods compare to semiempirical methods?": {
@@ -9027,6 +11083,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do semiempirical methods compare to ab initio methods?": {
@@ -9062,6 +11126,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do semiempirical methods compare to molecular mechanics?": {
@@ -9097,6 +11169,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do semiempirical methods simplify quantum calculations?": {
@@ -9132,6 +11212,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do solvent models affect simulation results?": {
@@ -9167,6 +11255,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does AlphaFold improve prediction accuracy?": {
@@ -9202,6 +11298,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does DFT compare to Hartree-Fock?": {
@@ -9237,6 +11341,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is free energy related to probability?": {
@@ -9272,6 +11384,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is QSAR model validation performed?": {
@@ -9307,6 +11427,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are axial and equatorial positions?": {
@@ -9342,6 +11470,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are common challenges in free energy calculations?": {
@@ -9377,6 +11513,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are common ensembles used in MD?": {
@@ -9412,6 +11556,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the Hohenberg-Kohn theorems?": {
@@ -9447,6 +11599,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main approaches to protein structure prediction?": {
@@ -9482,6 +11642,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main types of interactions in a force field?": {
@@ -9517,6 +11685,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the two major approaches in molecular modelling?": {
@@ -9552,6 +11728,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are visualization tools in computational chemistry?": {
@@ -9587,6 +11771,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What criteria are used to determine convergence?": {
@@ -9622,6 +11814,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines the forces acting on atoms in MD?": {
@@ -9657,6 +11857,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines whether a trial move is accepted?": {
@@ -9692,6 +11900,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does a negative change in free energy (ΔG < 0) indicate?": {
@@ -9727,6 +11943,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does a positive change in free energy (ΔG > 0) indicate?": {
@@ -9762,6 +11986,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does quantum mechanics modelling focus on?": {
@@ -9797,6 +12029,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the Hessian indicate about a structure?": {
@@ -9832,6 +12072,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the Lennard-Jones potential represent physically?": {
@@ -9867,6 +12115,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the NVE ensemble represent?": {
@@ -9902,6 +12158,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What equation do ab initio methods aim to solve?": {
@@ -9937,6 +12201,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens if a trial move increases the energy?": {
@@ -9972,6 +12244,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a force field in molecular mechanics?": {
@@ -10007,6 +12287,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a force field in molecular modelling?": {
@@ -10042,6 +12330,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a free energy barrier?": {
@@ -10077,6 +12373,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a free energy difference (ΔG)?": {
@@ -10112,6 +12416,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a free energy profile?": {
@@ -10147,6 +12459,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a functional in DFT?": {
@@ -10182,6 +12502,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a limitation of the Newton-Raphson method?": {
@@ -10217,6 +12545,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a local minimum on a PES?": {
@@ -10252,6 +12588,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Monte Carlo (MC) simulation?": {
@@ -10287,6 +12631,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Monte Carlo step (MCS)?": {
@@ -10322,6 +12674,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a potential energy surface (PES) in conformational analysis?": {
@@ -10357,6 +12717,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a potential energy surface (PES)?": {
@@ -10392,6 +12760,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a potential energy well?": {
@@ -10427,6 +12803,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a potential of mean force (PMF)?": {
@@ -10462,6 +12846,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a rotational barrier?": {
@@ -10497,6 +12889,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is alchemical transformation in free energy methods?": {
@@ -10532,6 +12932,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is angle bending energy?": {
@@ -10567,6 +12975,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is biological activity in QSAR?": {
@@ -10602,6 +13018,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is bond stretching energy?": {
@@ -10637,6 +13061,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is CCSD(T)?": {
@@ -10672,6 +13104,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is computational scaling in ab initio methods?": {
@@ -10707,6 +13147,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is computational scaling in QM methods?": {
@@ -10742,6 +13190,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is conformational analysis?": {
@@ -10777,6 +13233,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is convergence in energy minimization?": {
@@ -10812,6 +13276,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is convergence in free energy calculations?": {
@@ -10847,6 +13319,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Coulomb's law in molecular mechanics?": {
@@ -10882,6 +13362,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is coupled cluster (CC) theory?": {
@@ -10917,6 +13405,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is density functional theory (DFT)?": {
@@ -10952,6 +13448,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Density Functional Theory (DFT)?": {
@@ -10987,6 +13491,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is docking in molecular modelling?": {
@@ -11022,6 +13534,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is energy minimization in molecular mechanics?": {
@@ -11057,6 +13577,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is energy minimization in molecular modelling?": {
@@ -11092,6 +13620,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is free energy in molecular modelling?": {
@@ -11127,6 +13663,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is free energy perturbation (FEP)?": {
@@ -11162,6 +13706,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is high-performance computing (HPC)?": {
@@ -11197,6 +13749,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ligand-based drug design (LBDD)?": {
@@ -11232,6 +13792,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is molecular dynamics (MD) simulation?": {
@@ -11267,6 +13835,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is molecular dynamics (MD)?": {
@@ -11302,6 +13878,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is molecular mechanics (MM)?": {
@@ -11337,6 +13921,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is multiple linear regression (MLR)?": {
@@ -11372,6 +13964,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Møller–Plesset perturbation theory (MP2)?": {
@@ -11407,6 +14007,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is partial least squares (PLS)?": {
@@ -11442,6 +14050,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is principal component analysis (PCA)?": {
@@ -11477,6 +14093,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is quantum mechanics (QM) in molecular modelling?": {
@@ -11512,6 +14136,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is regression analysis in QSAR?": {
@@ -11547,6 +14179,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is RMSD in structure prediction?": {
@@ -11582,6 +14222,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is self-consistent field (SCF) in DFT?": {
@@ -11617,6 +14265,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is steric hindrance?": {
@@ -11652,6 +14308,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is structure-based drug design (SBDD)?": {
@@ -11687,6 +14351,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is temperature in MD simulations?": {
@@ -11722,6 +14394,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the basic idea behind MD simulations?": {
@@ -11757,6 +14437,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Boltzmann distribution?": {
@@ -11792,6 +14480,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Boltzmann factor in Monte Carlo simulation?": {
@@ -11827,6 +14523,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the canonical ensemble in Monte Carlo simulation?": {
@@ -11862,6 +14566,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the coefficient of determination (R^2)?": {
@@ -11897,6 +14609,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the difference between bonded and nonbonded terms?": {
@@ -11932,6 +14652,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the difference between local and global optimization?": {
@@ -11967,6 +14695,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the difference between modelling and simulation?": {
@@ -12002,6 +14738,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the dissociation constant (Kd)?": {
@@ -12037,6 +14781,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Generalized Born (GB) model?": {
@@ -12072,6 +14824,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Generalized Gradient Approximation (GGA)?": {
@@ -12107,6 +14867,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Gibbs free energy equation?": {
@@ -12142,6 +14910,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the global minimum on a PES?": {
@@ -12177,6 +14953,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the gradient in energy minimization?": {
@@ -12212,6 +14996,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Hartree-Fock (HF) method?": {
@@ -12247,6 +15039,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Hessian matrix?": {
@@ -12282,6 +15082,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Local Density Approximation (LDA)?": {
@@ -12317,6 +15125,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the main difference between Monte Carlo and molecular dynamics?": {
@@ -12352,6 +15168,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Metropolis algorithm?": {
@@ -12387,6 +15211,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Poisson-Boltzmann (PB) model?": {
@@ -12422,6 +15254,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the potential energy surface (PES)?": {
@@ -12457,6 +15297,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the purpose of energy minimization?": {
@@ -12492,6 +15340,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between free energy and equilibrium?": {
@@ -12527,6 +15383,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between structure and function?": {
@@ -12562,6 +15426,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between ΔG and binding affinity?": {
@@ -12597,6 +15469,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between ΔG and the equilibrium constant (K)?": {
@@ -12632,6 +15512,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of DFT in materials science?": {
@@ -12667,6 +15555,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of enthalpy in free energy calculations?": {
@@ -12702,6 +15598,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of entropy in free energy calculations?": {
@@ -12737,6 +15641,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of force fields in protein prediction?": {
@@ -12772,6 +15684,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of multiple sequence alignment (MSA)?": {
@@ -12807,6 +15727,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of polarization in molecular mechanics?": {
@@ -12842,6 +15770,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of solvation in modelling?": {
@@ -12877,6 +15813,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the self-consistent field (SCF) procedure?": {
@@ -12912,6 +15856,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the significance of the gradient being zero?": {
@@ -12947,6 +15899,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the steepest descent method?": {
@@ -12982,6 +15942,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the total potential energy in a force field?": {
@@ -13017,6 +15985,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the trade-off between QM and MM methods?": {
@@ -13052,6 +16028,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is thermodynamic integration (TI)?": {
@@ -13087,6 +16071,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is threading (fold recognition)?": {
@@ -13122,6 +16114,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is torsional (dihedral) energy?": {
@@ -13157,6 +16157,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is umbrella sampling?": {
@@ -13192,6 +16200,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is λ (lambda) in free energy calculations?": {
@@ -13227,6 +16243,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role do semiempirical methods play in large-scale simulations?": {
@@ -13262,6 +16286,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of properties can ab initio methods predict?": {
@@ -13297,6 +16329,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of systems are suited for Monte Carlo simulation?": {
@@ -13332,6 +16372,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are free energy barriers important?": {
@@ -13367,6 +16415,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are free energy calculations important in drug design?": {
@@ -13402,6 +16458,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are harmonic potentials commonly used for bonds and angles?": {
@@ -13437,6 +16501,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are ligand–protein interactions critical in drug design?": {
@@ -13472,6 +16544,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are molecular interactions critical in biology?": {
@@ -13507,6 +16587,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are periodic boundary conditions used?": {
@@ -13542,6 +16630,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are solvent models important?": {
@@ -13577,6 +16673,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do semiempirical methods run faster than ab initio methods?": {
@@ -13612,6 +16716,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is conformational analysis important in biology?": {
@@ -13647,6 +16759,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is conformational sampling important?": {
@@ -13682,6 +16802,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is conjugate gradient more efficient than steepest descent?": {
@@ -13717,6 +16845,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is detailed balance important?": {
@@ -13752,6 +16888,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is DFT widely used in chemistry and biology?": {
@@ -13787,6 +16931,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is DFT widely used?": {
@@ -13822,6 +16974,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is documentation important in computational workflows?": {
@@ -13857,6 +17017,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is energy minimization important?": {
@@ -13892,6 +17060,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is Hartree-Fock limited?": {
@@ -13927,6 +17103,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is HPC important in computational chemistry?": {
@@ -13962,6 +17146,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is it difficult to find the global minimum?": {
@@ -13997,6 +17189,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is molecular mechanics computationally efficient?": {
@@ -14032,6 +17232,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is QM important in molecular modelling?": {
@@ -14067,6 +17275,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is QSAR important in drug design?": {
@@ -14102,6 +17318,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is the hydrophobic effect important?": {
@@ -14137,6 +17361,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why must time steps be small in MD simulations?": {
@@ -14172,6 +17404,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   }
 }

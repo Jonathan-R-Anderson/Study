@@ -32,6 +32,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are micelles?": {
@@ -67,6 +75,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are non-ideal solutions?": {
@@ -102,6 +118,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are salt bridges?": {
@@ -137,6 +161,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines binding strength?": {
@@ -172,6 +204,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines diffusion rate?": {
@@ -207,6 +247,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines protein stability?": {
@@ -242,6 +290,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines the direction of diffusion?": {
@@ -277,6 +333,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does Raoult’s Law describe?": {
@@ -312,6 +376,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the entropy formula represent?": {
@@ -347,6 +419,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What drives diffusion?": {
@@ -382,6 +462,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What drives osmosis?": {
@@ -417,6 +505,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens to entropy at equilibrium?": {
@@ -452,6 +548,57 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
+    }
+  },
+  "What happens to ΔG at equilibrium?": {
+    "answer": "ΔG = 0.",
+    "subject": "Physical Chemistry",
+    "deck_name": "Molecular Driving Forces",
+    "difficulty": "Easy",
+    "difficulty_score": 24.06,
+    "correct_count": 0,
+    "missed_count": 0,
+    "review_count": 0,
+    "ease_factor": 2.159,
+    "interval_days": 0.0,
+    "repetitions": 0,
+    "lapse_count": 0,
+    "retention_rate": 0.0,
+    "lapse_rate": 0.0,
+    "due_at": null,
+    "last_reviewed": null,
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.0,
+      "difficulty": 0.495,
+      "retrievability": 0.0,
+      "quality": 0.0,
+      "repetition": 0,
+      "a_factor": 2.159,
+      "flags": 4,
+      "last_interval_days": 0.0,
+      "next_interval_days": 1.0,
+      "last_result": "new",
+      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens when E << kT?": {
@@ -487,6 +634,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens when E >> kT?": {
@@ -522,6 +677,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a folding intermediate?": {
@@ -557,6 +720,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a micelle?": {
@@ -592,6 +763,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a microstate?": {
@@ -627,6 +806,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a molecular machine?": {
@@ -662,6 +849,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a power stroke?": {
@@ -697,6 +892,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a rate-limiting step?": {
@@ -732,6 +935,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a reaction coordinate?": {
@@ -767,6 +978,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a reaction rate?": {
@@ -802,6 +1021,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a solute?": {
@@ -837,6 +1064,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a solution?": {
@@ -872,6 +1107,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a solvent?": {
@@ -907,6 +1150,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an amphiphilic molecule?": {
@@ -942,6 +1193,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an electric field?": {
@@ -977,6 +1236,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an ensemble?": {
@@ -1012,6 +1279,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Brownian motion?": {
@@ -1047,6 +1322,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is complementarity in binding?": {
@@ -1082,6 +1365,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is conformational selection?": {
@@ -1117,6 +1408,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cooperative assembly?": {
@@ -1152,6 +1451,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cooperativity?": {
@@ -1187,6 +1494,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is coupled folding and binding?": {
@@ -1222,6 +1537,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is electrostatics?": {
@@ -1257,6 +1580,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ensemble averaging?": {
@@ -1292,6 +1623,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is equilibrium?": {
@@ -1327,6 +1666,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hierarchical self-assembly?": {
@@ -1362,6 +1709,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is homeostasis?": {
@@ -1397,6 +1752,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is induced fit?": {
@@ -1432,6 +1795,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ionic strength?": {
@@ -1467,6 +1838,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is kinetics?": {
@@ -1502,6 +1881,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Le Châtelier’s principle?": {
@@ -1537,6 +1924,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is misfolding?": {
@@ -1572,6 +1967,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is molecular recognition in binding?": {
@@ -1607,6 +2010,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is molecular recognition?": {
@@ -1642,6 +2053,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is multivalency?": {
@@ -1677,6 +2096,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is nucleation?": {
@@ -1712,6 +2139,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is osmotic pressure?": {
@@ -1747,6 +2182,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is phase coexistence?": {
@@ -1782,6 +2225,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein aggregation?": {
@@ -1817,6 +2268,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is self-assembly?": {
@@ -1852,6 +2311,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the connection between landscapes and kinetics?": {
@@ -1887,6 +2354,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the critical point?": {
@@ -1922,6 +2397,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the entropy of mixing?": {
@@ -1957,6 +2440,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Lennard-Jones potential?": {
@@ -1992,6 +2483,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the overarching principle of biological systems?": {
@@ -2027,6 +2526,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Poisson equation?": {
@@ -2062,6 +2569,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the pre-exponential factor (A)?": {
@@ -2097,6 +2612,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the rate-limiting step?": {
@@ -2132,6 +2655,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of kinetics in molecular machines?": {
@@ -2167,6 +2698,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the significance of conservative forces?": {
@@ -2202,6 +2741,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the transition state?": {
@@ -2237,6 +2784,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are forward and reverse rates related at equilibrium?": {
@@ -2272,6 +2827,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do like charges interact?": {
@@ -2307,6 +2870,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do opposite charges interact?": {
@@ -2342,6 +2913,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does concentration affect chemical potential?": {
@@ -2377,6 +2956,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does concentration affect equilibrium?": {
@@ -2412,6 +2999,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does particle size affect diffusion?": {
@@ -2447,6 +3042,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does pressure affect phase transitions?": {
@@ -2482,6 +3085,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does temperature affect phase transitions?": {
@@ -2517,6 +3128,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does viscosity affect diffusion?": {
@@ -2552,6 +3171,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Is the hydrophobic effect a force?": {
@@ -2587,6 +3214,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are bilayers?": {
@@ -2622,6 +3257,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are colligative properties?": {
@@ -2657,6 +3300,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are common components of molecular force fields?": {
@@ -2692,6 +3343,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are degrees of freedom in phase diagrams?": {
@@ -2727,6 +3386,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are examples of biological self-assembly?": {
@@ -2762,6 +3429,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are examples of colligative properties?": {
@@ -2797,6 +3472,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are molecular machines in biology?": {
@@ -2832,6 +3515,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are nonbonded interactions?": {
@@ -2867,6 +3558,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What causes diffusion?": {
@@ -2902,6 +3601,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What condition must be met for equilibrium between phases or species?": {
@@ -2937,6 +3644,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines a reaction rate?": {
@@ -2972,6 +3687,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines binding free energy?": {
@@ -3007,6 +3730,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines binding specificity?": {
@@ -3042,6 +3773,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines the behavior of a system at equilibrium?": {
@@ -3077,6 +3816,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines the strength of electrostatic interactions?": {
@@ -3112,6 +3859,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines the structure formed in self-assembly?": {
@@ -3147,6 +3902,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines transitions between states?": {
@@ -3182,6 +3945,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What do barriers in a free energy landscape represent?": {
@@ -3217,6 +3988,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What do minima in a free energy landscape represent?": {
@@ -3252,6 +4031,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does a negative ΔF indicate?": {
@@ -3287,6 +4074,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does a positive ΔF indicate?": {
@@ -3322,6 +4117,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does a potential energy maximum represent?": {
@@ -3357,6 +4160,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does a potential energy minimum represent?": {
@@ -3392,6 +4203,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does equilibrium mean in terms of chemical potential?": {
@@ -3427,6 +4246,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does free energy represent physically?": {
@@ -3462,6 +4289,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does kT represent physically?": {
@@ -3497,6 +4332,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does kT represent?": {
@@ -3532,6 +4375,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the diffusion coefficient (D) represent?": {
@@ -3567,6 +4418,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the equilibrium constant (K) represent?": {
@@ -3602,6 +4461,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the magnitude of K indicate?": {
@@ -3637,6 +4504,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the repulsive part of Lennard-Jones represent?": {
@@ -3672,6 +4547,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the Second Law imply about spontaneous processes?": {
@@ -3707,6 +4590,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does ΔG = 0 imply?": {
@@ -3742,6 +4633,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does ΔS represent in phase transitions?": {
@@ -3777,6 +4676,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does ΔV represent in phase transitions?": {
@@ -3812,6 +4719,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What drives the hydrophobic effect?": {
@@ -3847,6 +4762,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What forces drive protein folding?": {
@@ -3882,6 +4805,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens at a phase boundary?": {
@@ -3917,6 +4848,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens at equilibrium in terms of free energy?": {
@@ -3952,6 +4891,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens to electrostatic forces in high dielectric media?": {
@@ -3987,6 +4934,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens to electrostatic interactions beyond the Debye length?": {
@@ -4022,6 +4977,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens to entropy during melting or vaporization?": {
@@ -4057,6 +5020,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens to probability as energy increases?": {
@@ -4092,6 +5063,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens to water molecules around hydrophobic solutes?": {
@@ -4127,41 +5106,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
-    }
-  },
-  "What happens to ΔG at equilibrium?": {
-    "answer": "ΔG = 0.",
-    "subject": "Physical Chemistry",
-    "deck_name": "Molecular Driving Forces",
-    "difficulty": "Medium",
-    "difficulty_score": 24.06,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.159,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.495,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.159,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens when hydrophobic molecules cluster?": {
@@ -4197,6 +5149,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a cycle in molecular machines?": {
@@ -4232,6 +5192,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a diffusion-limited reaction?": {
@@ -4267,6 +5235,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a force field in molecular modeling?": {
@@ -4302,6 +5278,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a macrostate?": {
@@ -4337,6 +5321,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a mechanochemical cycle?": {
@@ -4372,6 +5364,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a phase diagram?": {
@@ -4407,6 +5407,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a random walk?": {
@@ -4442,6 +5450,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a rate constant (k)?": {
@@ -4477,6 +5493,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a reaction-limited process?": {
@@ -4512,6 +5536,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a rugged energy landscape?": {
@@ -4547,6 +5579,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an example of a biological molecular machine?": {
@@ -4582,6 +5622,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an ideal solution?": {
@@ -4617,6 +5665,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is biological self-assembly?": {
@@ -4652,6 +5708,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Brownian motion in molecular machines?": {
@@ -4687,6 +5751,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is catalysis?": {
@@ -4722,6 +5794,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is chemical equilibrium?": {
@@ -4757,6 +5837,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is detailed balance in kinetics?": {
@@ -4792,6 +5880,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is detailed balance?": {
@@ -4827,6 +5923,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is diffusion-limited rate?": {
@@ -4862,6 +5966,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is diffusion?": {
@@ -4897,6 +6009,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is directional motion in molecular machines?": {
@@ -4932,6 +6052,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is electrostatic potential?": {
@@ -4967,6 +6095,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is error correction in self-assembly?": {
@@ -5002,6 +6138,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is flux (J)?": {
@@ -5037,6 +6181,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is free energy in statistical mechanics?": {
@@ -5072,6 +6224,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is frustration in an energy landscape?": {
@@ -5107,6 +6267,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is growth in self-assembly?": {
@@ -5142,6 +6310,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is heat (q)?": {
@@ -5177,6 +6353,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Henry’s Law?": {
@@ -5212,6 +6396,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is k in Boltzmann’s Law?": {
@@ -5247,6 +6439,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is latent heat?": {
@@ -5282,6 +6482,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is microscopic reversibility?": {
@@ -5317,6 +6525,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is mole fraction (x_i)?": {
@@ -5352,6 +6568,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is phase equilibrium?": {
@@ -5387,6 +6611,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein folding?": {
@@ -5422,6 +6654,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is screening?": {
@@ -5457,6 +6697,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is self-assembly in biology?": {
@@ -5492,6 +6740,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is specificity in molecular recognition?": {
@@ -5527,6 +6783,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is statistical mechanics?": {
@@ -5562,6 +6826,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the canonical ensemble?": {
@@ -5597,6 +6869,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the central idea of this chapter?": {
@@ -5632,6 +6912,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the change in free energy (ΔF)?": {
@@ -5667,6 +6955,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Clapeyron equation (form)?": {
@@ -5702,6 +6998,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the condition for phase equilibrium?": {
@@ -5737,6 +7041,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the connection between chemical potential and equilibrium?": {
@@ -5772,6 +7084,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the connection between free energy and kinetics?": {
@@ -5807,6 +7127,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the connection between landscapes and thermodynamics?": {
@@ -5842,6 +7170,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the connection between probability and thermodynamics?": {
@@ -5877,6 +7213,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the critical micelle concentration (CMC)?": {
@@ -5912,6 +7256,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Debye screening length?": {
@@ -5947,6 +7299,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the entropy change upon mixing?": {
@@ -5982,6 +7342,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the entropy criterion for equilibrium?": {
@@ -6017,6 +7385,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the equilibrium constant (K)?": {
@@ -6052,6 +7428,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the folding funnel model?": {
@@ -6087,6 +7471,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hydrophobic collapse?": {
@@ -6122,6 +7514,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hydrophobic core of a protein?": {
@@ -6157,6 +7557,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hydrophobic effect?": {
@@ -6192,6 +7600,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the induced fit model?": {
@@ -6227,6 +7643,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the lock-and-key model?": {
@@ -6262,6 +7686,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the meaning of rate = k[A][B]?": {
@@ -6297,6 +7729,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the physical meaning of chemical potential?": {
@@ -6332,6 +7772,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the physical meaning of K?": {
@@ -6367,6 +7815,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the physical meaning of ΔG = -kT ln K?": {
@@ -6402,6 +7858,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between activation energy and rate?": {
@@ -6437,6 +7901,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between diffusion and concentration gradients?": {
@@ -6472,6 +7944,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between free energy and probability?": {
@@ -6507,6 +7987,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between free energy, energy, and entropy?": {
@@ -6542,6 +8030,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between probability and entropy?": {
@@ -6577,6 +8073,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between ΔG and equilibrium?": {
@@ -6612,6 +8116,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of diffusion on an energy landscape?": {
@@ -6647,6 +8159,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of entropy in binding?": {
@@ -6682,6 +8202,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of entropy in self-assembly?": {
@@ -6717,6 +8245,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of enzymes in biological systems?": {
@@ -6752,6 +8288,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of surface area in the hydrophobic effect?": {
@@ -6787,6 +8331,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the significance of fluctuations?": {
@@ -6822,6 +8374,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the thermodynamic condition for self-assembly?": {
@@ -6857,6 +8417,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the triple point?": {
@@ -6892,6 +8460,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is work at the molecular level?": {
@@ -6927,6 +8503,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ΔG°?": {
@@ -6962,6 +8546,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role do electrostatics play in protein folding?": {
@@ -6997,6 +8589,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does Boltzmann’s Law play in molecular systems?": {
@@ -7032,6 +8632,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does diffusion play in cells?": {
@@ -7067,6 +8675,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does diffusion play in molecular recognition?": {
@@ -7102,6 +8718,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does electrostatics play in biology?": {
@@ -7137,6 +8761,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does entropy play in binding?": {
@@ -7172,6 +8804,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does entropy play in folding?": {
@@ -7207,6 +8847,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does reversibility play in self-assembly?": {
@@ -7242,6 +8890,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does the hydrophobic effect play in biology?": {
@@ -7277,6 +8933,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does the hydrophobic effect play in membrane formation?": {
@@ -7312,6 +8976,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why does adding solute lower freezing point?": {
@@ -7347,6 +9019,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are entropy and free energy related at equilibrium?": {
@@ -7382,6 +9062,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do biological systems maintain order?": {
@@ -7417,6 +9105,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do enzymes act as catalysts?": {
@@ -7452,6 +9148,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do forces relate to motion in simulations?": {
@@ -7487,6 +9191,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do molecular machines operate?": {
@@ -7522,6 +9234,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do molecular machines use ATP?": {
@@ -7557,6 +9277,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do proteins achieve their function?": {
@@ -7592,6 +9320,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do you compare probabilities of two states?": {
@@ -7627,6 +9363,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does Boltzmann’s Law connect to entropy?": {
@@ -7662,6 +9406,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does degeneracy affect probability?": {
@@ -7697,6 +9449,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does diffusion scale with time?": {
@@ -7732,6 +9492,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does entropy explain equilibrium distributions?": {
@@ -7767,6 +9535,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does free energy relate to Boltzmann’s Law?": {
@@ -7802,6 +9578,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does Q determine direction of reaction?": {
@@ -7837,6 +9621,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does statistical mechanics relate to thermodynamics?": {
@@ -7872,6 +9664,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does temperature affect distributions?": {
@@ -7907,6 +9707,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does temperature affect equilibrium?": {
@@ -7942,6 +9750,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does temperature affect free energy?": {
@@ -7977,6 +9793,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does temperature affect reaction rates?": {
@@ -8012,6 +9836,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does temperature affect the hydrophobic effect?": {
@@ -8047,6 +9879,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does the hydrophobic effect influence molecular recognition?": {
@@ -8082,6 +9922,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does water affect electrostatic interactions?": {
@@ -8117,6 +9965,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does ΔG‡ affect reaction rate?": {
@@ -8152,6 +10008,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is average energy calculated?": {
@@ -8187,6 +10051,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is binding free energy related to Kd?": {
@@ -8222,6 +10094,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is diffusion related to gradients?": {
@@ -8257,6 +10137,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is electrostatic potential energy expressed?": {
@@ -8292,6 +10180,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is entropy of mixing expressed (ideal case)?": {
@@ -8327,6 +10223,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is entropy related to heat in reversible processes?": {
@@ -8362,6 +10266,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is entropy related to probabilities?": {
@@ -8397,6 +10309,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is equilibrium related to probability distributions?": {
@@ -8432,6 +10352,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is force related to potential energy?": {
@@ -8467,6 +10395,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is free energy related to equilibrium constants?": {
@@ -8502,6 +10438,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is free energy related to the partition function?": {
@@ -8537,6 +10481,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is K expressed for a reaction aA + bB ⇌ cC + dD?": {
@@ -8572,6 +10524,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is the partition function defined?": {
@@ -8607,6 +10567,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is ΔG° related to K?": {
@@ -8642,6 +10610,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Is the hydrophobic effect driven by enthalpy or entropy?": {
@@ -8677,6 +10653,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What affects the diffusion coefficient (D)?": {
@@ -8712,6 +10696,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are conservative forces?": {
@@ -8747,6 +10739,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are energy landscapes used for in biology?": {
@@ -8782,6 +10782,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are intrinsically disordered proteins (IDPs)?": {
@@ -8817,6 +10825,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are non-conservative forces?": {
@@ -8852,6 +10868,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the two components of the Lennard-Jones potential?": {
@@ -8887,6 +10911,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What causes deviations from ideality?": {
@@ -8922,6 +10954,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What defines equilibrium in thermodynamics?": {
@@ -8957,6 +10997,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines the native structure of a protein?": {
@@ -8992,6 +11040,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines whether a process is spontaneous?": {
@@ -9027,6 +11083,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines which phase is stable?": {
@@ -9062,6 +11126,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What do peaks or barriers represent in an energy landscape?": {
@@ -9097,6 +11169,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What do valleys in an energy landscape represent?": {
@@ -9132,6 +11212,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does minimizing free energy mean physically?": {
@@ -9167,6 +11255,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the attractive part of Lennard-Jones represent?": {
@@ -9202,6 +11298,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the partition function physically represent?": {
@@ -9237,6 +11341,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What does the Second Law say about energy dispersal?": {
@@ -9272,6 +11384,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What drives self-assembly?": {
@@ -9307,6 +11427,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What drives the formation of solutions?": {
@@ -9342,6 +11470,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What governs biological systems at the molecular level?": {
@@ -9377,6 +11513,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What happens to probabilities at higher temperatures?": {
@@ -9412,6 +11556,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a biological molecular machine?": {
@@ -9447,6 +11599,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Brownian ratchet?": {
@@ -9482,6 +11642,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a force in physics?": {
@@ -9517,6 +11685,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a free energy landscape?": {
@@ -9552,6 +11728,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a global minimum?": {
@@ -9587,6 +11771,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a harmonic potential?": {
@@ -9622,6 +11814,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a local minimum?": {
@@ -9657,6 +11857,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a phase?": {
@@ -9692,6 +11900,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a potential energy function (U)?": {
@@ -9727,6 +11943,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a potential energy landscape?": {
@@ -9762,6 +11986,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a rate law?": {
@@ -9797,6 +12029,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a smooth energy landscape?": {
@@ -9832,6 +12072,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a spontaneous process at the molecular level?": {
@@ -9867,6 +12115,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a transition state?": {
@@ -9902,6 +12158,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is activation energy (Ea)?": {
@@ -9937,6 +12201,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an energy landscape?": {
@@ -9972,6 +12244,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ATP?": {
@@ -10007,6 +12287,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is binding affinity?": {
@@ -10042,6 +12330,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Boltzmann’s Law?": {
@@ -10077,6 +12373,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is chemical potential (μ)?": {
@@ -10112,6 +12416,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is chemical potential in a solution?": {
@@ -10147,6 +12459,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Coulomb’s Law?": {
@@ -10182,6 +12502,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is coupling in molecular machines?": {
@@ -10217,6 +12545,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is degeneracy in this context?": {
@@ -10252,6 +12588,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is efficiency in molecular machines?": {
@@ -10287,6 +12631,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is enthalpy (H)?": {
@@ -10322,6 +12674,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is entropy (S)?": {
@@ -10357,6 +12717,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Fick’s First Law?": {
@@ -10392,6 +12760,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Fick’s Second Law?": {
@@ -10427,6 +12803,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is free energy (Helmholtz free energy)?": {
@@ -10462,6 +12846,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is kinetic control in self-assembly?": {
@@ -10497,6 +12889,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is kinetic trapping?": {
@@ -10532,6 +12932,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Raoult’s Law?": {
@@ -10567,6 +12975,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is temperature in statistical mechanics?": {
@@ -10602,6 +13018,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Arrhenius equation?": {
@@ -10637,6 +13061,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Boltzmann distribution?": {
@@ -10672,6 +13104,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Boltzmann factor in kinetics?": {
@@ -10707,6 +13147,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Boltzmann factor?": {
@@ -10742,6 +13190,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Clapeyron equation?": {
@@ -10777,6 +13233,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the connection between the hydrophobic effect and protein folding?": {
@@ -10812,6 +13276,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the dielectric constant (ε)?": {
@@ -10847,6 +13319,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the difference between reversible and irreversible processes?": {
@@ -10882,6 +13362,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the difference between thermodynamics and kinetics?": {
@@ -10917,6 +13405,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the diffusion equation (conceptually)?": {
@@ -10952,6 +13448,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the dissociation constant (Kd)?": {
@@ -10987,6 +13491,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the equation for osmotic pressure?": {
@@ -11022,6 +13534,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Eyring equation?": {
@@ -11057,6 +13577,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the focus of biological applications in molecular thermodynamics?": {
@@ -11092,6 +13620,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the full Boltzmann distribution?": {
@@ -11127,6 +13663,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the funnel model of protein folding?": {
@@ -11162,6 +13706,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Gibbs free energy?": {
@@ -11197,6 +13749,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Gibbs phase rule?": {
@@ -11232,6 +13792,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hydrophobic effect in molecular recognition?": {
@@ -11267,6 +13835,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hydrophobic free energy contribution?": {
@@ -11302,6 +13878,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key quantity that links microstates to thermodynamics?": {
@@ -11337,6 +13921,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key thermodynamic balance in the hydrophobic effect?": {
@@ -11372,6 +13964,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key thermodynamic condition for folding and binding?": {
@@ -11407,6 +14007,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the key thermodynamic principle behind recognition?": {
@@ -11442,6 +14050,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the mean squared displacement?": {
@@ -11477,6 +14093,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the most probable macrostate?": {
@@ -11512,6 +14136,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the most probable state?": {
@@ -11547,6 +14179,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the partition function (Z)?": {
@@ -11582,6 +14222,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the physical meaning of the exponential factor?": {
@@ -11617,6 +14265,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Poisson-Boltzmann equation?": {
@@ -11652,6 +14308,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the reaction quotient (Q)?": {
@@ -11687,6 +14351,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between chemical potential and concentration (ideal solution)?": {
@@ -11722,6 +14394,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between entropy and probability?": {
@@ -11757,6 +14437,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between folding and binding?": {
@@ -11792,6 +14480,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between free energy and equilibrium?": {
@@ -11827,6 +14523,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between kinetics and equilibrium?": {
@@ -11862,6 +14566,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between life and thermodynamics?": {
@@ -11897,6 +14609,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between rate and free energy barrier?": {
@@ -11932,6 +14652,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the relationship between ΔG and Q?": {
@@ -11967,6 +14695,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of ATP in biology?": {
@@ -12002,6 +14738,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of electrostatics in recognition?": {
@@ -12037,6 +14781,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of energy landscapes in molecular machines?": {
@@ -12072,6 +14824,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of free energy in molecular machines?": {
@@ -12107,6 +14867,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of van der Waals interactions?": {
@@ -12142,6 +14910,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Second Law of Thermodynamics?": {
@@ -12177,6 +14953,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the significance of energy differences (ΔE)?": {
@@ -12212,6 +14996,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the statistical definition of entropy?": {
@@ -12247,6 +15039,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Stokes-Einstein relation?": {
@@ -12282,6 +15082,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the thermodynamic hypothesis of folding?": {
@@ -12317,6 +15125,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the van 't Hoff equation (conceptually)?": {
@@ -12352,6 +15168,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is thermal energy (kT)?": {
@@ -12387,6 +15211,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is thermodynamic control in self-assembly?": {
@@ -12422,6 +15254,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Transition State Theory?": {
@@ -12457,6 +15297,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is ΔG‡ (activation free energy)?": {
@@ -12492,6 +15340,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role do electrostatics play in molecular recognition?": {
@@ -12527,6 +15383,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does temperature play in landscapes?": {
@@ -12562,6 +15426,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of interactions are involved in self-assembly?": {
@@ -12597,6 +15469,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of interactions drive molecular recognition?": {
@@ -12632,6 +15512,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "When is Gibbs free energy used instead of Helmholtz free energy?": {
@@ -12667,6 +15555,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are electrostatics important in biology?": {
@@ -12702,6 +15598,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are electrostatics long-range interactions?": {
@@ -12737,6 +15641,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are energy landscapes important in biology?": {
@@ -12772,6 +15684,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are fluctuations important in biology?": {
@@ -12807,6 +15727,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are fluctuations important in small systems?": {
@@ -12842,6 +15770,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are folding and binding central to biology?": {
@@ -12877,6 +15813,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are free energy landscapes more relevant than energy alone?": {
@@ -12912,6 +15856,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are kinetics important in biology?": {
@@ -12947,6 +15899,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are molecular machines different from macroscopic machines?": {
@@ -12982,6 +15942,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are molecular machines important in biology?": {
@@ -13017,6 +15985,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are phase equilibria important in biology?": {
@@ -13052,6 +16028,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are potentials important in statistical mechanics?": {
@@ -13087,6 +16071,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are reaction rates important in biology?": {
@@ -13122,6 +16114,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are solutions important in biology?": {
@@ -13157,6 +16157,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are systems driven toward higher entropy?": {
@@ -13192,6 +16200,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why can ordered structures form spontaneously?": {
@@ -13227,6 +16243,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do amphiphilic molecules self-assemble?": {
@@ -13262,6 +16286,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do nonpolar molecules avoid water?": {
@@ -13297,6 +16329,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do phase transitions occur?": {
@@ -13332,6 +16372,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do solutes lower vapor pressure?": {
@@ -13367,6 +16415,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why does adding solute raise boiling point?": {
@@ -13402,6 +16458,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why does aggregation of hydrophobic molecules increase entropy?": {
@@ -13437,6 +16501,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why does mixing increase entropy?": {
@@ -13472,6 +16544,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why does mixing occur spontaneously?": {
@@ -13507,6 +16587,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is Boltzmann’s Law fundamental to biophysics?": {
@@ -13542,6 +16630,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is chemical equilibrium important in biology?": {
@@ -13577,6 +16673,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is diffusion important in cells?": {
@@ -13612,6 +16716,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is diffusion inefficient over long distances?": {
@@ -13647,6 +16759,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is entropy of mixing always positive?": {
@@ -13682,6 +16802,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is free energy central to molecular biology?": {
@@ -13717,6 +16845,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is free energy important?": {
@@ -13752,6 +16888,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is irreversibility important in molecular machines?": {
@@ -13787,6 +16931,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is molecular recognition important in biology?": {
@@ -13822,6 +16974,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is self-assembly important in biology?": {
@@ -13857,6 +17017,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is the folding funnel important?": {
@@ -13892,6 +17060,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is the hydrophobic effect critical in biology?": {
@@ -13927,6 +17103,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is the partition function important?": {
@@ -13962,6 +17146,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is water central to biological systems?": {
@@ -13997,6 +17189,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is water important in molecular recognition?": {
@@ -14032,6 +17232,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   }
 }

@@ -26,6 +26,7 @@ from sm20 import (
 STATE_FILENAME = ".flashcards.study_state.json"
 DEFAULT_SESSION_SIZE = 20
 BATCH_SIZE = 80
+ACQUISITION_TARGET_PASSES = 5
 DIFFICULTIES = ("Easy", "Medium", "Hard")
 DIFFICULTY_ORDER = {name: index for index, name in enumerate(DIFFICULTIES)}
 ALL_SUBJECTS = "All subjects"
@@ -732,6 +733,55 @@ class FlashcardApp:
         if refresh_if_empty and not self.session_queue:
             self.refresh_session()
 
+    def normalize_acquisition_state(self, data, review_count):
+        existing = data.get("acquisition") if isinstance(data.get("acquisition"), dict) else {}
+        target_passes = max(1, self.parse_int(existing.get("target_passes"), ACQUISITION_TARGET_PASSES))
+
+        if review_count > 0:
+            default_phase = "sm20"
+            default_passes = target_passes
+            default_correct = target_passes
+            default_wrong = 0
+        else:
+            default_phase = "acquisition"
+            default_passes = 0
+            default_correct = 0
+            default_wrong = 0
+
+        passes_completed = max(0, min(target_passes, self.parse_int(existing.get("passes_completed"), default_passes)))
+        correct_passes = max(0, self.parse_int(existing.get("correct_passes"), default_correct))
+        wrong_passes = max(0, self.parse_int(existing.get("wrong_passes"), default_wrong))
+        if correct_passes + wrong_passes < passes_completed:
+            wrong_passes = passes_completed - correct_passes
+        phase = str(existing.get("phase") or data.get("phase") or default_phase).lower()
+        if passes_completed >= target_passes:
+            phase = "sm20"
+        elif phase not in {"acquisition", "sm20"}:
+            phase = default_phase
+
+        return {
+            "phase": phase,
+            "passes_completed": passes_completed,
+            "target_passes": target_passes,
+            "correct_passes": correct_passes,
+            "wrong_passes": wrong_passes,
+            "last_result": str(existing.get("last_result") or ("new" if passes_completed == 0 else "right")).lower(),
+        }
+
+    def acquisition_complete(self, card):
+        acquisition = card["acquisition"]
+        return (
+            acquisition["phase"] == "sm20"
+            or acquisition["passes_completed"] >= acquisition["target_passes"]
+        )
+
+    def acquisition_pass_label(self, card):
+        acquisition = card["acquisition"]
+        if self.acquisition_complete(card):
+            return "SM20"
+        current_pass = min(acquisition["target_passes"], acquisition["passes_completed"] + 1)
+        return f"Learning {current_pass}/{acquisition['target_passes']}"
+
     def normalize_card(self, source_path, question, payload):
         data = payload if isinstance(payload, dict) else {"answer": payload}
         correct_count = max(0, self.parse_int(data.get("correct_count", 0)))
@@ -740,6 +790,7 @@ class FlashcardApp:
             correct_count + missed_count,
             self.parse_int(data.get("review_count", correct_count + missed_count)),
         )
+        acquisition_state = self.normalize_acquisition_state(data, review_count)
         interval_days = max(
             0.0,
             self.parse_float(
@@ -800,10 +851,11 @@ class FlashcardApp:
                 missed_count,
                 self.parse_int(data.get("lapse_count", missed_count)),
             ),
-            "due_at": due_at,
+            "due_at": None if not self.parse_timestamp(due_at) and not self.acquisition_complete({"acquisition": acquisition_state}) else due_at,
             "last_reviewed": last_reviewed,
             "manual_review": bool(data.get("manual_review", data.get("save_for_later", False))),
             "sm20": sm20_state,
+            "acquisition": acquisition_state,
         }
         return card
 
@@ -919,6 +971,14 @@ class FlashcardApp:
             "save_for_later": card["manual_review"],
             "known_pile": False,
             "sm20": serialize_sm20_state(card["sm20"]),
+            "acquisition": {
+                "phase": card["acquisition"]["phase"],
+                "passes_completed": card["acquisition"]["passes_completed"],
+                "target_passes": card["acquisition"]["target_passes"],
+                "correct_passes": card["acquisition"]["correct_passes"],
+                "wrong_passes": card["acquisition"]["wrong_passes"],
+                "last_result": card["acquisition"]["last_result"],
+            },
         }
 
     def save_all_decks(self, target_paths=None):
@@ -1007,6 +1067,8 @@ class FlashcardApp:
         return f"in {days}d"
 
     def is_due(self, card):
+        if not self.acquisition_complete(card):
+            return True
         if card["manual_review"]:
             return True
         due_at = self.parse_timestamp(card["due_at"])
@@ -1040,6 +1102,16 @@ class FlashcardApp:
 
     def active_batch_cards(self):
         return self.cards_from_ids(self.active_batch_ids)
+
+    def batch_chunks(self, cards):
+        chunk_size = self.parse_session_size()
+        return [cards[index:index + chunk_size] for index in range(0, len(cards), chunk_size)]
+
+    def current_acquisition_chunk(self, batch_cards):
+        for chunk in self.batch_chunks(batch_cards):
+            if any(not self.acquisition_complete(card) for card in chunk):
+                return chunk
+        return []
 
     def resolve_active_batch(self, allow_advance=True, preferred_card_id=None):
         batches = self.build_batch_groups()
@@ -1081,7 +1153,16 @@ class FlashcardApp:
         return self.cards_from_ids(self.active_batch_ids)
 
     def build_session_queue(self):
-        due_cards = [card for card in self.resolve_active_batch() if self.is_due(card)]
+        batch_cards = self.resolve_active_batch()
+        acquisition_chunk = self.current_acquisition_chunk(batch_cards)
+        if acquisition_chunk:
+            return [
+                card["id"]
+                for card in acquisition_chunk
+                if not self.acquisition_complete(card)
+            ]
+
+        due_cards = [card for card in batch_cards if self.is_due(card)]
         due_cards.sort(key=self.session_sort_key)
         session_size = self.parse_session_size()
         return [card["id"] for card in due_cards[:session_size]]
@@ -1093,15 +1174,27 @@ class FlashcardApp:
         count = len(self.session_queue)
 
         if count:
-            self.status_var.set(
-                f"Loaded {count} due card{'s' if count != 1 else ''} from batch "
-                f"{self.active_batch_index}/{self.active_batch_total}."
-            )
+            current_card = self.cards_by_id.get(self.session_queue[0])
+            if current_card and not self.acquisition_complete(current_card):
+                self.status_var.set(
+                    f"Loaded {self.acquisition_pass_label(current_card)} for {count} card"
+                    f"{'s' if count != 1 else ''} in batch {self.active_batch_index}/{self.active_batch_total}."
+                )
+            else:
+                self.status_var.set(
+                    f"Loaded {count} due card{'s' if count != 1 else ''} from batch "
+                    f"{self.active_batch_index}/{self.active_batch_total}."
+                )
         else:
             matching_cards = self.filtered_cards()
             active_batch_cards = self.resolve_active_batch(allow_advance=False)
+            acquisition_chunk = self.current_acquisition_chunk(active_batch_cards)
             next_due = self.next_due_in_filter(active_batch_cards or matching_cards)
-            if active_batch_cards and next_due:
+            if acquisition_chunk:
+                self.status_var.set(
+                    f"{self.acquisition_pass_label(acquisition_chunk[0])} is complete for now. Refresh to continue."
+                )
+            elif active_batch_cards and next_due:
                 self.status_var.set(
                     f"Batch {self.active_batch_index}/{self.active_batch_total} is clear for now. "
                     f"Next card opens {self.format_due_window(next_due)}."
@@ -1218,6 +1311,7 @@ class FlashcardApp:
                 f"({len(self.active_batch_cards())} cards)\n"
                 f"Session size: {self.parse_session_size()} "
                 f"(must be <= {BATCH_SIZE})\n\n"
+                f"Initial acquisition: {ACQUISITION_TARGET_PASSES} passes before SM20\n\n"
                 f"Difficulty split in current filter\n"
                 f"Easy: {difficulty_summary['Easy']}\n"
                 f"Medium: {difficulty_summary['Medium']}\n"
@@ -1254,28 +1348,49 @@ class FlashcardApp:
             return
 
         due_at = self.parse_timestamp(card["due_at"])
-        due_label = "New card" if card["review_count"] == 0 else self.format_due_window(due_at)
+        if not self.acquisition_complete(card):
+            due_label = self.acquisition_pass_label(card)
+        else:
+            due_label = "New card" if card["review_count"] == 0 else self.format_due_window(due_at)
         face = "Answer" if self.show_answer else "Question"
 
         self.face_label.config(text=face)
         self.subject_chip.config(text=card["subject"])
         self.deck_chip.config(text=card["deck_name"])
-        self.difficulty_chip.config(
-            text=f"{card['difficulty']} • S {card['sm20']['stability']:.1f} • D {card['sm20']['difficulty']:.2f}"
-        )
+        if not self.acquisition_complete(card):
+            self.difficulty_chip.config(
+                text=(
+                    f"{card['difficulty']} • Acquisition {card['acquisition']['passes_completed']}/"
+                    f"{card['acquisition']['target_passes']}"
+                )
+            )
+        else:
+            self.difficulty_chip.config(
+                text=f"{card['difficulty']} • S {card['sm20']['stability']:.1f} • D {card['sm20']['difficulty']:.2f}"
+            )
         self.schedule_chip.config(text=due_label)
         self.card_text.config(text=card["answer"] if self.show_answer else card["question"])
 
         retention = self.format_percent(self.retention_rate(card))
         lapse = self.format_percent(self.lapse_rate(card))
-        retrievability = self.format_percent(card["sm20"]["retrievability"])
-        self.card_metrics_label.config(
-            text=(
-                f"Reviews: {card['review_count']}  |  Retention: {retention}  |  "
-                f"Lapse rate: {lapse}  |  SM20 rep: {card['sm20']['repetition']}  |  "
-                f"R: {retrievability}  |  Next: {format_interval_label(card['interval_days'])}"
+        if not self.acquisition_complete(card):
+            self.card_metrics_label.config(
+                text=(
+                    f"Initial learning pass {card['acquisition']['passes_completed'] + 1} of "
+                    f"{card['acquisition']['target_passes']}  |  Right: {card['acquisition']['correct_passes']}  |  "
+                    f"Wrong: {card['acquisition']['wrong_passes']}  |  SM20 starts on pass "
+                    f"{card['acquisition']['target_passes']}"
+                )
             )
-        )
+        else:
+            retrievability = self.format_percent(card["sm20"]["retrievability"])
+            self.card_metrics_label.config(
+                text=(
+                    f"Reviews: {card['review_count']}  |  Retention: {retention}  |  "
+                    f"Lapse rate: {lapse}  |  SM20 rep: {card['sm20']['repetition']}  |  "
+                    f"R: {retrievability}  |  Next: {format_interval_label(card['interval_days'])}"
+                )
+            )
 
         self.progress_label.config(text=f"Session {self.index + 1} of {len(self.session_queue)}")
         self.progress_bar.config(maximum=max(1, len(self.session_queue)), value=self.index + 1)
@@ -1331,6 +1446,13 @@ class FlashcardApp:
         self.update_interface()
 
     def preview_intervals(self, card):
+        if not self.acquisition_complete(card):
+            next_pass = card["acquisition"]["passes_completed"] + 1
+            if next_pass < card["acquisition"]["target_passes"]:
+                return {
+                    "wrong": "Keep Learning",
+                    "right": "Keep Learning",
+                }
         now = self.now()
         elapsed_days = self.elapsed_days_for_card(card, now)
         return {
@@ -1348,7 +1470,69 @@ class FlashcardApp:
             )["interval_label"],
         }
 
+    def calculate_acquisition_outcome(self, card, rating):
+        was_correct = rating == "right"
+        now = self.now()
+        acquisition = dict(card["acquisition"])
+        acquisition["passes_completed"] = min(
+            acquisition["target_passes"],
+            acquisition["passes_completed"] + 1,
+        )
+        if was_correct:
+            acquisition["correct_passes"] += 1
+        else:
+            acquisition["wrong_passes"] += 1
+        acquisition["last_result"] = "right" if was_correct else "wrong"
+
+        outcome = {
+            "review_count": card["review_count"],
+            "correct_count": card["correct_count"],
+            "missed_count": card["missed_count"],
+            "lapse_count": card["lapse_count"],
+            "repetitions": card["repetitions"],
+            "interval_days": 0.0,
+            "ease_factor": card["sm20"]["a_factor"],
+            "due_at": None,
+            "last_reviewed": now.isoformat(timespec="seconds"),
+            "manual_review": False,
+            "sm20": card["sm20"],
+            "acquisition": acquisition,
+            "interval_label": f"Pass {acquisition['passes_completed']}/{acquisition['target_passes']}",
+            "result": acquisition["last_result"],
+        }
+
+        if acquisition["passes_completed"] >= acquisition["target_passes"]:
+            acquisition["phase"] = "sm20"
+            sm20_outcome = score_sm20_review(
+                card["sm20"],
+                was_correct,
+                now=now,
+                elapsed_days=self.elapsed_days_for_card(card, now),
+            )
+            outcome.update(
+                {
+                    "review_count": card["review_count"] + 1,
+                    "correct_count": card["correct_count"] + (1 if was_correct else 0),
+                    "missed_count": card["missed_count"] + (0 if was_correct else 1),
+                    "lapse_count": card["lapse_count"] + (0 if was_correct else 1),
+                    "repetitions": sm20_outcome["state"]["repetition"],
+                    "interval_days": sm20_outcome["interval_days"],
+                    "ease_factor": sm20_outcome["state"]["a_factor"],
+                    "due_at": sm20_outcome["due_at"],
+                    "last_reviewed": sm20_outcome["last_reviewed"],
+                    "sm20": sm20_outcome["state"],
+                    "interval_label": sm20_outcome["interval_label"],
+                    "result": sm20_outcome["result"],
+                    "acquisition": acquisition,
+                }
+            )
+
+        return outcome
+
     def calculate_review_outcome(self, card, rating):
+        if not self.acquisition_complete(card):
+            return self.calculate_acquisition_outcome(card, rating)
+
         now = self.now()
         was_correct = rating == "right"
         sm20_outcome = score_sm20_review(
@@ -1403,7 +1587,11 @@ class FlashcardApp:
             self.session_queue = self.build_session_queue()
 
         self.status_var.set(
-            f"{outcome['result'].title()} recorded with SM20. Next interval: {outcome['interval_label']}."
+            (
+                f"Learning pass {card['acquisition']['passes_completed']}/{card['acquisition']['target_passes']} recorded."
+                if not self.acquisition_complete(card)
+                else f"{outcome['result'].title()} recorded with SM20. Next interval: {outcome['interval_label']}."
+            )
         )
         self.update_interface()
 
@@ -1447,6 +1635,14 @@ class FlashcardApp:
             card["due_at"] = None
             card["last_reviewed"] = None
             card["manual_review"] = False
+            card["acquisition"] = {
+                "phase": "acquisition",
+                "passes_completed": 0,
+                "target_passes": ACQUISITION_TARGET_PASSES,
+                "correct_passes": 0,
+                "wrong_passes": 0,
+                "last_result": "new",
+            }
 
         self.recalculate_difficulties()
         self.save_all_decks()

@@ -32,6 +32,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are fibrous proteins?": {
@@ -67,6 +75,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are folding intermediates?": {
@@ -102,6 +118,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are membrane proteins?": {
@@ -137,6 +161,57 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
+    }
+  },
+  "What are prions?": {
+    "answer": "Misfolded proteins that can induce other proteins to adopt the same abnormal conformation.",
+    "subject": "Structural Biology",
+    "deck_name": "Introduction to Protein Structure",
+    "difficulty": "Easy",
+    "difficulty_score": 23.99,
+    "correct_count": 0,
+    "missed_count": 0,
+    "review_count": 0,
+    "ease_factor": 2.16,
+    "interval_days": 0.0,
+    "repetitions": 0,
+    "lapse_count": 0,
+    "retention_rate": 0.0,
+    "lapse_rate": 0.0,
+    "due_at": null,
+    "last_reviewed": null,
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.0,
+      "difficulty": 0.494,
+      "retrievability": 0.0,
+      "quality": 0.0,
+      "repetition": 0,
+      "a_factor": 2.16,
+      "flags": 4,
+      "last_interval_days": 0.0,
+      "next_interval_days": 1.0,
+      "last_result": "new",
+      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are protein aggregates?": {
@@ -172,6 +247,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are receptor proteins?": {
@@ -207,6 +290,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the two main approaches to protein engineering?": {
@@ -242,6 +333,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the two types of beta sheets?": {
@@ -277,6 +376,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are transport proteins?": {
@@ -312,6 +419,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What characterizes all-alpha proteins?": {
@@ -347,6 +462,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What characterizes all-beta proteins?": {
@@ -382,6 +505,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines membrane protein topology?": {
@@ -417,6 +548,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What direction are protein sequences written?": {
@@ -452,6 +591,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What experiment supports Anfinsen’s dogma?": {
@@ -487,6 +634,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a beta hairpin?": {
@@ -522,6 +677,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a binding site?": {
@@ -557,6 +720,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a codon?": {
@@ -592,6 +763,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a coenzyme?": {
@@ -627,6 +806,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a conformational change?": {
@@ -662,6 +849,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a hetero-oligomer?": {
@@ -697,6 +892,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a homo-oligomer?": {
@@ -732,6 +935,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a ligand?": {
@@ -767,6 +978,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a missense mutation?": {
@@ -802,6 +1021,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a nonsense mutation?": {
@@ -837,6 +1064,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a permanent interaction?": {
@@ -872,6 +1107,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a silent mutation?": {
@@ -907,6 +1150,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a transient interaction?": {
@@ -942,6 +1193,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a transmembrane protein?": {
@@ -977,6 +1236,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is affinity in protein–protein interactions?": {
@@ -1012,6 +1279,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is binding affinity?": {
@@ -1047,6 +1322,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is co-immunoprecipitation?": {
@@ -1082,6 +1365,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is enzyme engineering?": {
@@ -1117,6 +1408,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is function-based design?": {
@@ -1152,6 +1451,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hemoglobin an example of in protein function?": {
@@ -1187,6 +1494,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is hemoglobin an example of?": {
@@ -1222,6 +1537,57 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
+    }
+  },
+  "What is misfolding?": {
+    "answer": "Incorrect folding of a protein that leads to loss of function or aggregation.",
+    "subject": "Structural Biology",
+    "deck_name": "Introduction to Protein Structure",
+    "difficulty": "Easy",
+    "difficulty_score": 23.99,
+    "correct_count": 0,
+    "missed_count": 0,
+    "review_count": 0,
+    "ease_factor": 2.16,
+    "interval_days": 0.0,
+    "repetitions": 0,
+    "lapse_count": 0,
+    "retention_rate": 0.0,
+    "lapse_rate": 0.0,
+    "due_at": null,
+    "last_reviewed": null,
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.0,
+      "difficulty": 0.494,
+      "retrievability": 0.0,
+      "quality": 0.0,
+      "repetition": 0,
+      "a_factor": 2.16,
+      "flags": 4,
+      "last_interval_days": 0.0,
+      "next_interval_days": 1.0,
+      "last_result": "new",
+      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein design?": {
@@ -1257,6 +1623,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein flexibility?": {
@@ -1292,6 +1666,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein stability engineering?": {
@@ -1327,6 +1709,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is proteolytic cleavage?": {
@@ -1362,6 +1752,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is screening in protein engineering?": {
@@ -1397,6 +1795,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is sequence alignment?": {
@@ -1432,6 +1838,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is sequence homology?": {
@@ -1467,6 +1881,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is sequence space?": {
@@ -1502,6 +1924,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is structure-based design?": {
@@ -1537,6 +1967,57 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
+    }
+  },
+  "What is the Protein Data Bank (PDB)?": {
+    "answer": "A public database of experimentally determined protein structures.",
+    "subject": "Structural Biology",
+    "deck_name": "Introduction to Protein Structure",
+    "difficulty": "Easy",
+    "difficulty_score": 24.06,
+    "correct_count": 0,
+    "missed_count": 0,
+    "review_count": 0,
+    "ease_factor": 2.159,
+    "interval_days": 0.0,
+    "repetitions": 0,
+    "lapse_count": 0,
+    "retention_rate": 0.0,
+    "lapse_rate": 0.0,
+    "due_at": null,
+    "last_reviewed": null,
+    "manual_review": false,
+    "save_for_later": false,
+    "known_pile": false,
+    "sm20": {
+      "version": 2,
+      "stability": 1.0,
+      "difficulty": 0.495,
+      "retrievability": 0.0,
+      "quality": 0.0,
+      "repetition": 0,
+      "a_factor": 2.159,
+      "flags": 4,
+      "last_interval_days": 0.0,
+      "next_interval_days": 1.0,
+      "last_result": "new",
+      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the significance of hydrogen bonding geometry?": {
@@ -1572,6 +2053,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What stabilizes secondary structure?": {
@@ -1607,6 +2096,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which amino acids favor alpha helices?": {
@@ -1642,6 +2139,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which residues are common in beta turns?": {
@@ -1677,6 +2182,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How many residues are typically in a beta turn?": {
@@ -1712,6 +2225,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Is protein folding always reversible?": {
@@ -1747,6 +2268,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Is protein folding reversible?": {
@@ -1782,6 +2311,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are applications of protein engineering?": {
@@ -1817,6 +2354,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are globular proteins?": {
@@ -1852,6 +2397,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are integral membrane proteins?": {
@@ -1887,6 +2440,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are lipid-anchored proteins?": {
@@ -1922,6 +2483,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are loops in protein structure?": {
@@ -1957,6 +2526,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are membrane protein functions?": {
@@ -1992,6 +2569,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are molecular chaperones?": {
@@ -2027,6 +2612,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are motifs in protein structure?": {
@@ -2062,6 +2655,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are peripheral membrane proteins?": {
@@ -2097,41 +2698,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
-    }
-  },
-  "What are prions?": {
-    "answer": "Misfolded proteins that can induce other proteins to adopt the same abnormal conformation.",
-    "subject": "Structural Biology",
-    "deck_name": "Introduction to Protein Structure",
-    "difficulty": "Medium",
-    "difficulty_score": 23.99,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.16,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.494,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.16,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the limitations of cryo-EM?": {
@@ -2167,6 +2741,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the limitations of NMR?": {
@@ -2202,6 +2784,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the limitations of X-ray crystallography?": {
@@ -2237,6 +2827,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main types of secondary structure elements?": {
@@ -2272,6 +2870,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main types of secondary structure?": {
@@ -2307,6 +2913,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the major classes of protein structures?": {
@@ -2342,6 +2956,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the primary functions of proteins?": {
@@ -2377,6 +2999,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the standard amino acids?": {
@@ -2412,6 +3042,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What characterizes protein–protein interfaces?": {
@@ -2447,6 +3085,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines a protein's primary structure?": {
@@ -2482,6 +3128,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines binding specificity?": {
@@ -2517,6 +3171,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What experimental methods study protein–protein interactions?": {
@@ -2552,6 +3214,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What factors affect protein folding?": {
@@ -2587,6 +3257,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a beta barrel?": {
@@ -2622,6 +3300,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a beta sheet?": {
@@ -2657,6 +3343,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a beta-alpha-beta motif?": {
@@ -2692,6 +3386,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a channel protein?": {
@@ -2727,6 +3429,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a cofactor?": {
@@ -2762,6 +3472,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a coiled-coil structure?": {
@@ -2797,6 +3515,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a conserved residue?": {
@@ -2832,6 +3558,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a fitness function in protein engineering?": {
@@ -2867,6 +3601,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a ligand in protein function?": {
@@ -2902,6 +3644,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a molten globule?": {
@@ -2937,6 +3687,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a motif in sequence analysis?": {
@@ -2972,6 +3730,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a mutation in protein sequence?": {
@@ -3007,6 +3773,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a peptide bond?": {
@@ -3042,6 +3816,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a prosthetic group?": {
@@ -3077,6 +3859,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a protein complex?": {
@@ -3112,6 +3902,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a protein domain in globular proteins?": {
@@ -3147,6 +3945,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a protein domain?": {
@@ -3182,6 +3988,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a protein fold in globular proteins?": {
@@ -3217,6 +4031,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a protein fold?": {
@@ -3252,6 +4074,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a protein library?": {
@@ -3287,6 +4117,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is active transport?": {
@@ -3322,6 +4160,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is allosteric regulation?": {
@@ -3357,6 +4203,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is allostery?": {
@@ -3392,6 +4246,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an active site?": {
@@ -3427,6 +4289,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an allosteric site?": {
@@ -3462,6 +4332,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an alpha helix?": {
@@ -3497,6 +4375,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an enzyme?": {
@@ -3532,6 +4418,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an interface in protein–protein interactions?": {
@@ -3567,6 +4461,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Anfinsen’s dogma?": {
@@ -3602,6 +4504,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Anfinsen’s experiment?": {
@@ -3637,6 +4547,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is conformational change?": {
@@ -3672,6 +4590,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cooperative folding?": {
@@ -3707,6 +4633,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cooperativity in protein function?": {
@@ -3742,6 +4676,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cooperativity in proteins?": {
@@ -3777,6 +4719,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is de novo protein design?": {
@@ -3812,6 +4762,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is denaturation in the context of folding?": {
@@ -3847,6 +4805,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is denaturation?": {
@@ -3882,6 +4848,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is directed evolution?": {
@@ -3917,6 +4891,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is enzyme specificity?": {
@@ -3952,6 +4934,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is induced fit in protein–protein interactions?": {
@@ -3987,6 +4977,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is induced fit?": {
@@ -4022,6 +5020,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is mass spectrometry in protein sequencing?": {
@@ -4057,41 +5063,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
-    }
-  },
-  "What is misfolding?": {
-    "answer": "Incorrect folding of a protein that leads to loss of function or aggregation.",
-    "subject": "Structural Biology",
-    "deck_name": "Introduction to Protein Structure",
-    "difficulty": "Medium",
-    "difficulty_score": 23.99,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.16,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.494,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.16,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is model building in structure determination?": {
@@ -4127,6 +5106,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is NMR spectroscopy in protein structure determination?": {
@@ -4162,6 +5149,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is NOE in NMR?": {
@@ -4197,6 +5192,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is passive transport?": {
@@ -4232,6 +5235,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein architecture?": {
@@ -4267,6 +5278,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein engineering?": {
@@ -4302,6 +5321,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein folding?": {
@@ -4337,6 +5364,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein function?": {
@@ -4372,6 +5407,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein optimization?": {
@@ -4407,6 +5450,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein solubility dependent on?": {
@@ -4442,6 +5493,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein structure determination?": {
@@ -4477,6 +5536,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein topology?": {
@@ -4512,6 +5579,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is protein-ligand complementarity?": {
@@ -4547,6 +5622,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is R-factor?": {
@@ -4582,6 +5665,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is random mutagenesis?": {
@@ -4617,6 +5708,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is rational design in protein engineering?": {
@@ -4652,6 +5751,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is refinement in structure determination?": {
@@ -4687,6 +5794,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is secondary structure in proteins?": {
@@ -4722,6 +5837,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is selection in protein engineering?": {
@@ -4757,6 +5880,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is signal transduction?": {
@@ -4792,6 +5923,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is site-directed mutagenesis?": {
@@ -4827,6 +5966,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is specificity in protein–protein interactions?": {
@@ -4862,6 +6009,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is symmetry in protein complexes?": {
@@ -4897,6 +6052,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is synthetic biology in the context of protein design?": {
@@ -4932,6 +6095,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the electron density map?": {
@@ -4967,6 +6138,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the genetic code?": {
@@ -5002,6 +6181,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hydrophobic effect?": {
@@ -5037,6 +6224,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the induced fit model?": {
@@ -5072,6 +6267,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the lipid bilayer?": {
@@ -5107,6 +6310,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the native state of a protein?": {
@@ -5142,6 +6353,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the primary structure of a protein?": {
@@ -5177,41 +6396,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
-    }
-  },
-  "What is the Protein Data Bank (PDB)?": {
-    "answer": "A public database of experimentally determined protein structures.",
-    "subject": "Structural Biology",
-    "deck_name": "Introduction to Protein Structure",
-    "difficulty": "Medium",
-    "difficulty_score": 24.06,
-    "correct_count": 0,
-    "missed_count": 0,
-    "review_count": 0,
-    "ease_factor": 2.159,
-    "interval_days": 0.0,
-    "repetitions": 0,
-    "lapse_count": 0,
-    "retention_rate": 0.0,
-    "lapse_rate": 0.0,
-    "due_at": null,
-    "last_reviewed": null,
-    "manual_review": false,
-    "save_for_later": false,
-    "known_pile": false,
-    "sm20": {
-      "version": 2,
-      "stability": 1.0,
-      "difficulty": 0.495,
-      "retrievability": 0.0,
-      "quality": 0.0,
-      "repetition": 0,
-      "a_factor": 2.159,
-      "flags": 4,
-      "last_interval_days": 0.0,
-      "next_interval_days": 1.0,
-      "last_result": "new",
-      "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the quaternary structure in globular proteins?": {
@@ -5247,6 +6439,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the quaternary structure of a protein?": {
@@ -5282,6 +6482,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Ramachandran plot?": {
@@ -5317,6 +6525,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of chaperonins?": {
@@ -5352,6 +6568,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of electrostatic interactions in PPIs?": {
@@ -5387,6 +6611,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of loops and turns in proteins?": {
@@ -5422,6 +6654,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of machine learning in protein engineering?": {
@@ -5457,6 +6697,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the secondary structure of a protein?": {
@@ -5492,6 +6740,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the significance of protein symmetry?": {
@@ -5527,6 +6783,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the significance of protein–protein interaction networks?": {
@@ -5562,6 +6826,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the tertiary structure of a protein?": {
@@ -5597,6 +6869,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the transition state?": {
@@ -5632,6 +6912,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the typical internal structure of globular proteins?": {
@@ -5667,6 +6955,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is validation in protein structure determination?": {
@@ -5702,6 +6998,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is yeast two-hybrid screening?": {
@@ -5737,6 +7041,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What regions correspond to beta sheets on the Ramachandran plot?": {
@@ -5772,6 +7084,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What regions of the Ramachandran plot correspond to alpha helices?": {
@@ -5807,6 +7127,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role do detergents play in studying membrane proteins?": {
@@ -5842,6 +7170,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role do disulfide bonds play?": {
@@ -5877,6 +7213,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role do hydrophobic interactions play in PPIs?": {
@@ -5912,6 +7256,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What role does computational modeling play in protein design?": {
@@ -5947,6 +7299,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What stabilizes protein structure?": {
@@ -5982,6 +7342,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What structural feature is common in transmembrane proteins?": {
@@ -6017,6 +7385,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of information does NMR provide?": {
@@ -6052,6 +7428,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of interactions stabilize globular proteins?": {
@@ -6087,6 +7471,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What types of interactions stabilize protein–protein interfaces?": {
@@ -6122,6 +7514,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Where are beta barrel membrane proteins typically found?": {
@@ -6157,6 +7557,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Which amino acids disrupt alpha helices?": {
@@ -6192,6 +7600,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is exploring sequence space challenging?": {
@@ -6227,6 +7643,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is primary structure important?": {
@@ -6262,6 +7686,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are binding sites typically structured?": {
@@ -6297,6 +7729,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How are membrane proteins oriented in the membrane?": {
@@ -6332,6 +7772,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do enzymes stabilize the transition state?": {
@@ -6367,6 +7815,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do globular proteins differ from fibrous proteins?": {
@@ -6402,6 +7858,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do loops differ from regular secondary structures?": {
@@ -6437,6 +7901,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do mutations affect protein function?": {
@@ -6472,6 +7944,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How do mutations affect protein–protein interactions?": {
@@ -6507,6 +7987,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does protein architecture relate to function?": {
@@ -6542,6 +8030,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does secondary structure contribute to overall protein stability?": {
@@ -6577,6 +8073,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How does structure relate to function in globular proteins?": {
@@ -6612,6 +8116,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is protein function related to structure?": {
@@ -6647,6 +8159,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "How is the phase problem solved?": {
@@ -6682,6 +8202,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are hot spots in protein interfaces?": {
@@ -6717,6 +8245,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are key features of an alpha helix?": {
@@ -6752,6 +8288,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are phi (φ) and psi (ψ) angles?": {
@@ -6787,6 +8331,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are protein–protein interactions (PPIs)?": {
@@ -6822,6 +8374,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the advantages of cryo-EM?": {
@@ -6857,6 +8417,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main methods of protein structure determination?": {
@@ -6892,6 +8460,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the main types of membrane proteins?": {
@@ -6927,6 +8503,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What are the N-terminus and C-terminus?": {
@@ -6962,6 +8546,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What categories classify amino acids?": {
@@ -6997,6 +8589,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What determines the properties of an amino acid?": {
@@ -7032,6 +8632,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What drives protein folding?": {
@@ -7067,6 +8675,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a beta barrel in membrane proteins?": {
@@ -7102,6 +8718,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a beta turn?": {
@@ -7137,6 +8761,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a domain in sequence terms?": {
@@ -7172,6 +8804,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a helix-turn-helix motif?": {
@@ -7207,6 +8847,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a protein?": {
@@ -7242,6 +8890,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a Ramachandran plot used for?": {
@@ -7277,6 +8933,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a supersecondary structure?": {
@@ -7312,6 +8976,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a transmembrane alpha helix?": {
@@ -7347,6 +9019,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is a transporter (carrier protein)?": {
@@ -7382,6 +9062,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is an amino acid?": {
@@ -7417,6 +9105,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is catalysis in proteins?": {
@@ -7452,6 +9148,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is conformational selection?": {
@@ -7487,6 +9191,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cooperative binding?": {
@@ -7522,6 +9234,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is cryo-electron microscopy (cryo-EM)?": {
@@ -7557,6 +9277,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is diffraction in X-ray crystallography?": {
@@ -7592,6 +9320,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is Edman degradation?": {
@@ -7627,6 +9363,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is kinetic vs thermodynamic control in folding?": {
@@ -7662,6 +9406,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is resolution in crystallography?": {
@@ -7697,6 +9449,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the difference between a domain and a subunit?": {
@@ -7732,6 +9492,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the difference between alpha/beta and alpha+beta proteins?": {
@@ -7767,6 +9535,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the difference between parallel and antiparallel beta sheets?": {
@@ -7802,6 +9578,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the dissociation constant (Kd)?": {
@@ -7837,6 +9621,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the energy landscape in protein folding?": {
@@ -7872,6 +9664,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the folding funnel model?": {
@@ -7907,6 +9707,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the hydrophobic effect in folding?": {
@@ -7942,6 +9750,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the importance of protein function in biology?": {
@@ -7977,6 +9793,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the Levinthal paradox?": {
@@ -8012,6 +9836,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the phase problem?": {
@@ -8047,6 +9879,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the role of side chains (R groups)?": {
@@ -8082,6 +9922,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is the significance of protein structure to function?": {
@@ -8117,6 +9965,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What is X-ray crystallography?": {
@@ -8152,6 +10008,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "What resolves the Levinthal paradox?": {
@@ -8187,6 +10051,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are alpha helices usually right-handed?": {
@@ -8222,6 +10094,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are certain phi and psi angles restricted?": {
@@ -8257,6 +10137,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are glycine and proline common in turns?": {
@@ -8292,6 +10180,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are membrane proteins difficult to study?": {
@@ -8327,6 +10223,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are membrane proteins important?": {
@@ -8362,6 +10266,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are protein–protein interactions important in drug design?": {
@@ -8397,6 +10309,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why are protein–protein interactions important?": {
@@ -8432,6 +10352,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why do globular proteins have hydrophobic cores?": {
@@ -8467,6 +10395,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is flexibility important in globular proteins?": {
@@ -8502,6 +10438,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is protein engineering important?": {
@@ -8537,6 +10481,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is protein folding important?": {
@@ -8572,6 +10524,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is protein structure determination important?": {
@@ -8607,6 +10567,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why is the peptide bond planar?": {
@@ -8642,6 +10610,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   },
   "Why must proteins be crystallized for X-ray crystallography?": {
@@ -8677,6 +10653,14 @@
       "next_interval_days": 1.0,
       "last_result": "new",
       "history": []
+    },
+    "acquisition": {
+      "phase": "acquisition",
+      "passes_completed": 0,
+      "target_passes": 5,
+      "correct_passes": 0,
+      "wrong_passes": 0,
+      "last_result": "new"
     }
   }
 }
