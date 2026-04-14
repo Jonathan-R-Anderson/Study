@@ -25,6 +25,7 @@ from sm20 import (
 
 STATE_FILENAME = ".flashcards.study_state.json"
 DEFAULT_SESSION_SIZE = 20
+BATCH_SIZE = 80
 DIFFICULTIES = ("Easy", "Medium", "Hard")
 DIFFICULTY_ORDER = {name: index for index, name in enumerate(DIFFICULTIES)}
 ALL_SUBJECTS = "All subjects"
@@ -60,6 +61,9 @@ class FlashcardApp:
         self.subjects = []
         self.deck_paths = []
         self.session_queue = []
+        self.active_batch_ids = []
+        self.active_batch_index = 0
+        self.active_batch_total = 0
         self.index = 0
         self.show_answer = False
         self.difficulty_thresholds = (0.0, 0.0)
@@ -257,7 +261,7 @@ class FlashcardApp:
         self.session_size_spinbox = ttk.Spinbox(
             self.sidebar,
             from_=5,
-            to=100,
+            to=BATCH_SIZE,
             increment=5,
             textvariable=self.session_size_var,
             font=(self.ui_font, 11),
@@ -943,6 +947,9 @@ class FlashcardApp:
             card["question"].lower(),
         )
 
+    def batch_sort_key(self, card):
+        return self.save_sort_key(card)
+
     def session_sort_key(self, card):
         due_at = self.parse_timestamp(card["due_at"]) or datetime.min
         due_bucket = 0 if self.is_due(card) else 1
@@ -958,7 +965,7 @@ class FlashcardApp:
 
     def parse_session_size(self):
         size = self.parse_int(self.session_size_var.get(), DEFAULT_SESSION_SIZE)
-        size = max(5, min(size, 100))
+        size = max(5, min(size, BATCH_SIZE))
         self.session_size_var.set(str(size))
         return size
 
@@ -1023,8 +1030,58 @@ class FlashcardApp:
         )
         return future_due[0] if future_due else None
 
+    def build_batch_groups(self, cards=None):
+        ordered_cards = sorted(cards if cards is not None else self.filtered_cards(), key=self.batch_sort_key)
+        card_ids = [card["id"] for card in ordered_cards]
+        return [card_ids[index:index + BATCH_SIZE] for index in range(0, len(card_ids), BATCH_SIZE)]
+
+    def cards_from_ids(self, card_ids):
+        return [self.cards_by_id[card_id] for card_id in card_ids if card_id in self.cards_by_id]
+
+    def active_batch_cards(self):
+        return self.cards_from_ids(self.active_batch_ids)
+
+    def resolve_active_batch(self, allow_advance=True, preferred_card_id=None):
+        batches = self.build_batch_groups()
+        self.active_batch_total = len(batches)
+
+        if not batches:
+            self.active_batch_ids = []
+            self.active_batch_index = 0
+            return []
+
+        batch_index = None
+        active_batch_set = set(self.active_batch_ids)
+        if active_batch_set:
+            for index, batch_ids in enumerate(batches):
+                if active_batch_set == set(batch_ids):
+                    batch_index = index
+                    break
+
+        if batch_index is None and preferred_card_id:
+            for index, batch_ids in enumerate(batches):
+                if preferred_card_id in batch_ids:
+                    batch_index = index
+                    break
+
+        if batch_index is None:
+            batch_index = 0
+
+        if allow_advance:
+            current_batch_cards = self.cards_from_ids(batches[batch_index])
+            if not any(self.is_due(card) for card in current_batch_cards):
+                for next_index in range(batch_index + 1, len(batches)):
+                    next_batch_cards = self.cards_from_ids(batches[next_index])
+                    if any(self.is_due(card) for card in next_batch_cards):
+                        batch_index = next_index
+                        break
+
+        self.active_batch_ids = list(batches[batch_index])
+        self.active_batch_index = batch_index + 1
+        return self.cards_from_ids(self.active_batch_ids)
+
     def build_session_queue(self):
-        due_cards = [card for card in self.filtered_cards() if self.is_due(card)]
+        due_cards = [card for card in self.resolve_active_batch() if self.is_due(card)]
         due_cards.sort(key=self.session_sort_key)
         session_size = self.parse_session_size()
         return [card["id"] for card in due_cards[:session_size]]
@@ -1036,14 +1093,23 @@ class FlashcardApp:
         count = len(self.session_queue)
 
         if count:
-            self.status_var.set(f"Loaded {count} due card{'s' if count != 1 else ''} for this session.")
+            self.status_var.set(
+                f"Loaded {count} due card{'s' if count != 1 else ''} from batch "
+                f"{self.active_batch_index}/{self.active_batch_total}."
+            )
         else:
             matching_cards = self.filtered_cards()
-            next_due = self.next_due_in_filter(matching_cards)
-            if matching_cards and next_due:
+            active_batch_cards = self.resolve_active_batch(allow_advance=False)
+            next_due = self.next_due_in_filter(active_batch_cards or matching_cards)
+            if active_batch_cards and next_due:
+                self.status_var.set(
+                    f"Batch {self.active_batch_index}/{self.active_batch_total} is clear for now. "
+                    f"Next card opens {self.format_due_window(next_due)}."
+                )
+            elif matching_cards and next_due:
                 self.status_var.set(f"No cards are due right now. Next card opens {self.format_due_window(next_due)}.")
             elif matching_cards:
-                self.status_var.set("No due cards for this filter yet. Widen the filters or rescan the decks.")
+                self.status_var.set("No due cards remain in the active batch or filter right now.")
             else:
                 self.status_var.set("No cards match the selected subject and difficulty.")
 
@@ -1052,6 +1118,7 @@ class FlashcardApp:
 
     def rescan_decks(self):
         self.session_queue = []
+        self.active_batch_ids = []
         self.load_library()
         self.refresh_session()
 
@@ -1077,11 +1144,22 @@ class FlashcardApp:
         if difficulty in [ALL_DIFFICULTIES, *DIFFICULTIES]:
             self.difficulty_var.set(difficulty)
 
+        saved_batch = [
+            card_id for card_id in state.get("active_batch", [])
+            if card_id in self.cards_by_id
+        ]
+        if saved_batch:
+            self.active_batch_ids = saved_batch
+
         queue = [
             card_id for card_id in state.get("queue", [])
             if card_id in self.cards_by_id
         ]
         if queue:
+            self.resolve_active_batch(
+                allow_advance=False,
+                preferred_card_id=queue[0],
+            )
             self.session_queue = queue
             self.index = min(self.parse_int(state.get("index"), 0), len(queue) - 1)
             self.show_answer = bool(state.get("show_answer", False))
@@ -1094,6 +1172,7 @@ class FlashcardApp:
             "subject": self.subject_var.get(),
             "difficulty": self.difficulty_var.get(),
             "session_size": self.parse_session_size(),
+            "active_batch": self.active_batch_ids,
             "queue": self.session_queue,
             "index": self.index,
             "show_answer": self.show_answer,
@@ -1134,6 +1213,11 @@ class FlashcardApp:
         self.library_summary_label.config(
             text=(
                 f"Folder: {self.deck_dir}\n\n"
+                f"Batch size: {BATCH_SIZE}\n"
+                f"Active batch: {self.active_batch_index or 0}/{self.active_batch_total or 0}  "
+                f"({len(self.active_batch_cards())} cards)\n"
+                f"Session size: {self.parse_session_size()} "
+                f"(must be <= {BATCH_SIZE})\n\n"
                 f"Difficulty split in current filter\n"
                 f"Easy: {difficulty_summary['Easy']}\n"
                 f"Medium: {difficulty_summary['Medium']}\n"
@@ -1366,6 +1450,7 @@ class FlashcardApp:
 
         self.recalculate_difficulties()
         self.save_all_decks()
+        self.active_batch_ids = []
         self.session_queue = []
         self.refresh_session()
         self.status_var.set("Progress reset across all JSON decks.")

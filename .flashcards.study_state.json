@@ -3,12 +3,11 @@
   "difficulty": "Easy",
   "session_size": 5,
   "queue": [
-    "e7f9e89462c3a027354e003e442d3a54a3730155",
-    "a62a8318377eda95315cf81310e792e99f50e09f",
-    "670f0ba76fcf3384c3fbe422864f09aea1ca67ac",
-    "4a2b288416097f9cdf687c1f2bb1acd07d7f1d75",
-    "29dbe3b33de9e81548f02a3101139d459489be24"
+    "b302ccde82ba22c241ebc9f5bbb3e42437c95ac2",
+    "c0e5009fbfe028c71db66d8a2fe5df0f4b393272",
+    "e02bc429ccb4d4064d0914cb10c8da01560dc934",
+    "d0893223141ba48d6e54fd5d48b6c54e6003bc40"
   ],
   "index": 0,
-  "show_answer": true
+  "show_answer": false
 }
