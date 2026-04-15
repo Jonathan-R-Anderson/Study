@@ -15,7 +15,7 @@
     "retention_rate": 0.0,
     "lapse_rate": 0.0,
     "due_at": null,
-    "last_reviewed": null,
+    "last_reviewed": "2026-04-14T18:16:30",
     "manual_review": false,
     "save_for_later": false,
     "known_pile": false,
@@ -35,11 +35,11 @@
     },
     "acquisition": {
       "phase": "acquisition",
-      "passes_completed": 0,
+      "passes_completed": 4,
       "target_passes": 5,
-      "correct_passes": 0,
+      "correct_passes": 4,
       "wrong_passes": 0,
-      "last_result": "new"
+      "last_result": "right"
     }
   },
   "Are all genes always expressed?": {
